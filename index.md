@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: RCFW
+        subtitle: Regional Centre for the Future of Work 
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
