@@ -10,7 +10,7 @@ sections:
         title: RCFW
         subtitle: Regional Centre for the Future of Work 
         background: /images/hands-together.jpg
-        button: Contact Us
+        button: Learn More
         url: /contact-us/
         key_highlights:
             - title: Highlight A
