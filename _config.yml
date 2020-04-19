@@ -20,7 +20,6 @@ colors:
 
 
 collections:
-  collection one: 
   about:
       output: true
   activities:
