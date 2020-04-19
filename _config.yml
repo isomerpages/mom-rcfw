@@ -20,8 +20,9 @@ colors:
 
 
 collections:
+  collection one: 
   about:
-    output: true
+      output: true
   activities:
     output: true
   contact-us:
