@@ -1,4 +1,7 @@
-
+---
+title: Overview
+permalink: /about/overview/
+---
 
 The Regional Centre for the Future of Work (RCFW) is a new initiative by the Singapore Ministry of Manpower, supported by our tripartite partners, the Singapore National Trades Union Congress (NTUC) and the Singapore National Employers Federation (SNEF).
 
