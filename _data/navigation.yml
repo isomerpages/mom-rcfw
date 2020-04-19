@@ -8,10 +8,7 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: About
-    url: /overview/
-    sublinks:
-      - title: Vision And Mission Logo
-        url: /vision-and-mission-logo/
+    collection: about
   - title: Activities
     collection: activities
   - title: Contact Us
