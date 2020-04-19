@@ -11,4 +11,8 @@ Close partnerships between government, employers and workers’ organisations wi
 We need to ensure that working conditions remain safe and entrench a preventative culture across employers that prioritises workers’ safety and health. This is one of the key foundational elements of decent work. 
    
 ## 3. **Embracing Technology**. 
-We need to adapt to technological advances and support (a) employers in leveraging upon technology to transform and redesign jobs; (b) supporting workers to upskill and reskill to keep their competencies up to date, and better prepare them for new job opportunities. This is important to ensure sustainable and inclusive economic growth for all individuals.
+We need to adapt to technological advances and support 
+- employers in leveraging upon technology to transform and redesign jobs; 
+- workers to upskill and reskill to keep their competencies up to date, and better prepare them for new job opportunities. 
+
+This is important to ensure sustainable and inclusive economic growth for all individuals.
