@@ -13,15 +13,15 @@ sections:
         button: Learn More
         url: /about/overview/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: RCFW Advisors
+              description: Who are they?
+              url: 	/about/rcfw-advisors/
+            - title: Upcoming Activities
+              description: 
+              url: 
+            - title: Suscribe to us
+              description: Get the latest highlights and updates on RCFW activities
+              url: 
     - infobar:
         title: Infobar title
         subtitle: Subtitle
