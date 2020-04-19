@@ -11,7 +11,7 @@ sections:
         subtitle: Regional Centre for the Future of Work 
         background: /images/hands-together.jpg
         button: Learn More
-        url: /contact-us/
+        url: /overview/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
