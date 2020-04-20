@@ -1,5 +1,5 @@
 ---
-title: Focus Area 2 - Creation of Content
+title: Workplace Safety and Health
 permalink: /activities/focus-area-2/
 ---
 
