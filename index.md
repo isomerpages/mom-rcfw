@@ -31,17 +31,17 @@ sections:
     - infopic:
         title: Under Review
         subtitle: 
-        description: 
+        description: Under Review
         button: 
         url: 
         image: 
-        alt: 
+        alt: Under Review
     - infopic:
         title: Under Review
         subtitle: 
-        description: 
+        description: Under Review
         button: 
         url: 
         image: 
-        alt: 
+        alt: Under Review
 ---
