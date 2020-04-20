@@ -24,9 +24,9 @@ sections:
               url: 
     - infobar:
         title: "Work for A Brighter Future"
-        subtitle: 
-        description: About a sentence worth of description here
-        button: Read the report
+        subtitle: Global Commission on the Future of Work
+        description: Seize the moment to achieve a futureof work that provides decent and sustainable work opportunities for all. 
+        button: Read the 2019 report
         url: https://www.ilo.org/infostories/en-GB/Campaigns/future-work/global-commission#intro 
     - infopic:
         title: Integrity
