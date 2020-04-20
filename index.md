@@ -34,7 +34,7 @@ sections:
         description: Under Review
         button: 
         url: 
-        image: images/isomer-logo.svg
+        image: images/under-construction.png
         alt: Under Review
     - infopic:
         title: Under Review
@@ -42,6 +42,6 @@ sections:
         description: Under Review
         button: 
         url: 
-        image: images/isomer-logo.svg
+        image: images/under-constuction.png
         alt: Under Review
 ---
