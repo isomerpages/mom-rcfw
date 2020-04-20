@@ -23,11 +23,11 @@ sections:
               description: Get the latest highlights and updates on RCFW activities
               url: 
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
+        title: "Work for A Brighter Future"
+        subtitle: 
         description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        button: Read the report
+        url: https://www.ilo.org/infostories/en-GB/Campaigns/future-work/global-commission#intro 
     - infopic:
         title: Integrity
         subtitle: Core Values
