@@ -1,6 +1,7 @@
 ---
 title: Vision And Mission Logo
-permalink: /about/vision-and-mission-logo/
+permalink: /about/overview/vision-and-mission-logo/
+third_nav_title: overview
 ---
 
 image: /images/mission-and-vision.jpg
