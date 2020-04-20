@@ -42,6 +42,6 @@ sections:
         description: Under Review
         button: 
         url: 
-        image: images/under-constuction.png
+        image: images/under-construction.png
         alt: Under Review
 ---
