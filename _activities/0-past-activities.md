@@ -1,5 +1,5 @@
 ---
-title: Pas Activities 
+title: Past Activities 
 permalink: /activities/past-activities/
 ---
 Pending content
