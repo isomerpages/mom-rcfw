@@ -11,7 +11,5 @@ links:
     collection: about
   - title: Activities
     collection: activities
-   - title: Resources
-    resource_room: true
-  - title: Contact Us
+   - title: Contact Us
     collection: contact-us
