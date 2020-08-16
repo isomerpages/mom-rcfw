@@ -24,9 +24,7 @@ collections:
       output: true
   activities:
     output: true
-  resources:
-    output: resources_name
-  contact-us:
+   contact-us:
     output: true
 
 ##################################################################################################################
