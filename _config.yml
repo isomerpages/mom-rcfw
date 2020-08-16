@@ -24,8 +24,11 @@ collections:
       output: true
   activities:
     output: true
+  resources:
+    output: true
   contact-us:
     output: true
+resources_name: media
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
