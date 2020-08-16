@@ -1,5 +1,5 @@
 ---
-title: upcoming-activities
+title: Upcoming Activities
 permalink: /activities/upcoming-activities/
 ---
 
