@@ -6,16 +6,10 @@
 
 logo: /images/isomer-logo.svg
 
-- title: About
-  collection: about
-- title: Activities
-  collection: activities
-- title: Resources
-  url: /resources/
-  sub-links:
-  - title: Reports
-  url: /resources/reports/
-  - title: Speeches and Statements
-  url: /resources/speeches-and-statements/
-- title: Contact Us
-  collection: contact-us
+links:
+  - title: About
+    collection: about
+  - title: Activities
+    collection: activities
+  - title: Contact Us
+    collection: contact-us
