@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /contact-us/contact-us/
 ---
 
-locations:
 # HQ Address 
 18 Havelock Road<br>Singapore 117438
 
