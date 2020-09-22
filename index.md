@@ -23,7 +23,7 @@ sections:
               description: Get the latest highlights and updates on RCFW activities
               url: 
     - infobar: 
-        title: HR Tech Festival Asia 2020,<br>29 Sep - 1 Oct 2020 
+        title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020 
         subtitle: ASEAN Future of Work track
         description: Hear from thought leaders on the impact of COVID-19 on labour markets and how HR leaders can support business transformation and human development in the future of work.
         button: Sign up for the event!
