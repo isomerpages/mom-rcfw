@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome. This site is under construction.
+notification: We have launched the RCFW on 29 Sep 2020! 
 sections:
     - hero:
         title: RCFW
@@ -23,17 +23,17 @@ sections:
               description: Get the latest highlights and updates on RCFW activities
               url: 
     - infobar:
-        title: HR Tech Festival Asia 2020, 29 Sep - 1 Oct 2020 
+        title: HR Tech Festival Asia, 29 Sep - 1 Oct 2020 
         subtitle: ASEAN Future of Work track
         description: Hear from thought leaders on the impact of COVID-19 on labour markets and how HR leaders can support business transformation and human development in the future of work.
         button: Sign up for the event!
         url:  https://www.hrtechfestivalasia.com/
     - infopic:
-        title: Test
-        subtitle: 
-        description: Under Review
-        button: 
-        url: 
+        title: Singapore Conference on the Future of Work, 29 April 2019
+        subtitle: "Embracing Technology; Inclusive Growth"
+        description: 
+        button: Click here for the highlights! 
+        url: /activities/past-activities/fow-conference-2019/
         image: images/isomer-logo.svg
         alt: Under Review
     - infopic:
