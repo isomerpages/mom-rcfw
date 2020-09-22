@@ -23,11 +23,11 @@ sections:
               description: Get the latest highlights and updates on RCFW activities
               url: 
     - infobar:
-        title: "Work for A Brighter Future"
-        subtitle: Global Commission on the Future of Work
-        description: Invest in people's capabilities, the institutions of work and decent and sustainable work.
-        button: Read the 2019 report
-        url: https://www.ilo.org/infostories/en-GB/Campaigns/future-work/global-commission#intro 
+        title: HR Tech Festival Asia 2020, 29 Sep - 1 Oct 2020 
+        subtitle: ASEAN Future of Work track
+        description: Hear from thought leaders on the impact of COVID-19 on labour markets and how HR leaders can support business transformation and human development in the future of work.
+        button: Sign up for the event!
+        url:  https://www.hrtechfestivalasia.com/
     - infopic:
         title: Test
         subtitle: 
