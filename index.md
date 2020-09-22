@@ -35,4 +35,5 @@ sections:
         button: Click here for the highlights! 
         url: /activities/past-activities/fow-conference-2019/
         image: images/FoW-Conference-ALM.jpeg
+        alt: ASEAN Labour Ministers at the FoW Conference
 ---
