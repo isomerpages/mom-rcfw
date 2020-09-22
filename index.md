@@ -34,7 +34,7 @@ sections:
         description: 
         button: Click here for the highlights! 
         url: /activities/past-activities/fow-conference-2019/
-        image: images/isomer-logo.svg
+        image: images/FoW-Conference-ALM.jpeg
         alt: Under Review
     - infopic:
         title: Under Review
