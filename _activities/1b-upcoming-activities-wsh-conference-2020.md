@@ -3,4 +3,6 @@ title: Workplace Safety Health (WSH) Conference 2020
 permalink: /activities/upcoming-activities/wsh-conference-2020/
 third_nav_title: Upcoming Activities
 ---
-To get info on the programme agenda from OSHD
+This virtual conference on Workplace Safety and Health will discuss perspectives and developments toward the advancement of this pertinent issue in the region. 
+
+More details will be provided soon.
