@@ -7,7 +7,7 @@ The Singapore Ministry of Manpower, in collaboration with the National Trade Uni
 
 The conference brought together more than 700 government, worker and employer representatives from ASEAN Member States and ASEAN’s six dialogue partners – Australia, China, India, Japan, Korea and New Zealand. 
 
-To watch the video recordings of the sessions, please click the relevant links below. Videos are provided by the ILO.  
+To watch the video recordings of the sessions, please click the session titles below. Videos are provided by the International Labour Organization (ILO).  
 
 ## Opening Session 
 
