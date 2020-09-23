@@ -14,6 +14,7 @@ A region ready for the future of work, leveraging a skilled workforce, providing
 
 3. Foster collaborations
 
+<br>
 
 The RCFW will institutionalise our region’s collective effort to take advantage of emerging opportunities and to tackle Future of Work challenges, especially during the COVID-19 pandemic.
 
