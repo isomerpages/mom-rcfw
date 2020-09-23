@@ -17,5 +17,5 @@ Every worker has the right to safe and decent work. We need to ensure safe worki
 
 Companies with positive safety cultures can also increase employee engagement, morale and productivity. By placing a priority on workplace safety and health, we can progress towards a more caring society. 
    
-### 3. Tripartism and Social Dialogu
+### 3. Tripartism and Social Dialogue
 Tripartite collaboration in designing practical solutions to address emerging challenges is even more critical than before. Governments, employers’ and workers’ organisations must work together to promote greater social dialogue and share best practices to ready our people for the Future of Work. Each stakeholder group can provide different perspectives on the concerns and challenges faced by the individuals that they represent, so that a holistic approach can be adopted to creative solutioning. 
