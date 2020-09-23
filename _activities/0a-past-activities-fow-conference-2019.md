@@ -20,11 +20,37 @@ To watch the video recordings of the sessions, please click the relevant links b
 Tripartite speakers from the region, Commissioners from the ILO’s Global Commission of the Future of Work and industry leaders shared insights and engaged in in-depth discussions with the participants. 
 - Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)
 
-  | hgiahgishgongogoa |
-  |-------------------|
+**Moderator:** Ms Lin Diaan-Yi, Senior Partner, McKinsey & Company Singapore
+
+**Panellists:**
+1. Ms Low Yen Ling, Senior Parliamentary Secretary, Singapore
+2. Ms Akiko Gono, Adviser on International Affairs, Japanese Trade Union Confederation (JTUC-RENGO) & Titular Member, Workers’ Group of the ILO GB
+3. Mr Abraham Thomas, Managing Director, IBM Singapore Pte Ltd
+4. Prof Vanessa Evers, Professor of Computer Science, Human Interaction Group and Scientific Director Design Lab, University of Twente; and Head, NTU Institute of Science and Technology for Humanity
+5. Ms Reema Nanavaty, Former General Secretary, SEWA
 
 - Panel 2: [The Role of Tripartism in Promoting Sustainable and Inclusive Growth](https://www.youtube.com/watch?v=-ECYScP8P3w)
+
+**Moderator:** Dr Gillian Koh, Deputy Director (Research), Institute of Policy Studies
+
+**Panellists:** 
+1. Mr M Kulasegaran, Minister of Human Resources, Malaysia
+2. Mr Richard Wagstaff, President, New Zealand Council of Trade Unions (NZCTU)
+3. Ms Goh Swee Chen, Independent Director, SIA and Former Chairman, Shell
+4. Mr Ancheta Tan, President Emeritus, Employers Confederation of the Philippines (ECOP) & Deputy Member, Employers’ Group of the ILO GB
+5. Mr Philip Jennings, Former General Secretary, UNI Global Union
+
 - Panel 3: [Building an Agile and Future-ready Workforce](https://www.youtube.com/watch?v=pv9AonYr7W4)
+
+**Moderator:** Ms Loke Wei Sue, Presenter, Channel News Asia
+
+**Panellists:** 
+1. Mr Hanif Dhakiri, Minister of Manpower, Indonesia
+2. Mr Heng Sour, Secretary of State of Labour, Cambodia
+3. Mr Patrick Tay, Assistant Secretary-General, Singapore National Trades Union Congress
+4. Ms Teo Lay Lim, Senior MD ASEAN and Country MD, Accenture 
+5. Dr Bicky Bhangu, Regional Director for Southeast Asia and Pacific, Rolls-Royce
+6. Mr Alain Dehaze, CEO, Adecco Group
 
 **Closing Session**
 - [Remarks by Mr Ng Chee Meng](https://www.youtube.com/watch?v=k4Sd18M0-78), Secretary General, NTUC
