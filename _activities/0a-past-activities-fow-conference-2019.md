@@ -9,15 +9,16 @@ The conference brought together more than 700 government, worker and employer re
 
 To watch the video recordings of the sessions, please click the relevant links below. Videos are provided by the ILO.  
 
-**Opening Session** 
+## Opening Session 
 
 - [Welcome remarks by Mrs Josephine Teo](https://www.youtube.com/watch?v=gvwC77iU5M0&t=104s), Minister for Manpower and Second Minister for Home Affairs (Singapore)
 - [Opening address by Mr Guy Ryder](https://www.youtube.com/watch?v=9vEm_RGhcno), ILO Director-General
 - [Keynote presentation by Ms Reema Nanavaty](https://www.youtube.com/watch?v=_jqyXqOZbd0), Commissioner from ILO Global Commission on the Future of Work
 
-**Panel Discussions** 
+## Panel Discussions 
 
 Tripartite speakers from the region, Commissioners from the ILO’s Global Commission of the Future of Work and industry leaders shared insights and engaged in in-depth discussions with the participants. 
+
 - Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)
 
   **Moderator:** Ms Lin Diaan-Yi, Senior Partner, McKinsey & Company Singapore
@@ -29,6 +30,7 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
   4. Prof Vanessa Evers, Professor of Computer Science, Human Interaction Group and Scientific Director Design Lab, University of Twente; and Head, NTU Institute of Science and Technology for Humanity
   5. Ms Reema Nanavaty, Former General Secretary, SEWA
 
+<br>
 - Panel 2: [The Role of Tripartism in Promoting Sustainable and Inclusive Growth](https://www.youtube.com/watch?v=-ECYScP8P3w)
 
   **Moderator:** Dr Gillian Koh, Deputy Director (Research), Institute of Policy Studies
@@ -40,6 +42,7 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
   4. Mr Ancheta Tan, President Emeritus, Employers Confederation of the Philippines (ECOP) & Deputy Member, Employers’ Group of the ILO GB
   5. Mr Philip Jennings, Former General Secretary, UNI Global Union
 
+<br>
 - Panel 3: [Building an Agile and Future-ready Workforce](https://www.youtube.com/watch?v=pv9AonYr7W4)
 
   **Moderator:** Ms Loke Wei Sue, Presenter, Channel News Asia
