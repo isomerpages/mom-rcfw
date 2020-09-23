@@ -20,9 +20,9 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
 
 #### Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)
 
-  _Moderator_: Ms Lin Diaan-Yi, Senior Partner, McKinsey & Company Singapore
+  **Moderator**: Ms Lin Diaan-Yi, Senior Partner, McKinsey & Company Singapore
 
-  _Panellists_:
+  **Panellists**:
   1. Ms Low Yen Ling, Senior Parliamentary Secretary, Singapore
   2. Ms Akiko Gono, Adviser on International Affairs, Japanese Trade Union Confederation (JTUC-RENGO) & Titular Member, Workers’ Group of the ILO GB
   3. Mr Abraham Thomas, Managing Director, IBM Singapore Pte Ltd
