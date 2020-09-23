@@ -19,6 +19,10 @@ To watch the video recordings of the sessions, please click the relevant links b
 
 Tripartite speakers from the region, Commissioners from the ILO’s Global Commission of the Future of Work and industry leaders shared insights and engaged in in-depth discussions with the participants. 
 - Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)
+
+  | hgiahgishgongogoa |
+  |-------------------|
+
 - Panel 2: [The Role of Tripartism in Promoting Sustainable and Inclusive Growth](https://www.youtube.com/watch?v=-ECYScP8P3w)
 - Panel 3: [Building an Agile and Future-ready Workforce](https://www.youtube.com/watch?v=pv9AonYr7W4)
 
