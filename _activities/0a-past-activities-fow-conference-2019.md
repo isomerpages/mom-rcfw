@@ -16,10 +16,9 @@ To watch the video recordings of the sessions, please click the relevant links b
 - [Keynote presentation by Ms Reema Nanavaty](https://www.youtube.com/watch?v=_jqyXqOZbd0), Commissioner from ILO Global Commission on the Future of Work
 
 ## Panel Discussions 
-
 Tripartite speakers from the region, Commissioners from the ILO’s Global Commission of the Future of Work and industry leaders shared insights and engaged in in-depth discussions with the participants. 
 
-**- Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)**
+### Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)
 
   _Moderator_: Ms Lin Diaan-Yi, Senior Partner, McKinsey & Company Singapore
 
@@ -30,7 +29,7 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
   4. Prof Vanessa Evers, Professor of Computer Science, Human Interaction Group and Scientific Director Design Lab, University of Twente; and Head, NTU Institute of Science and Technology for Humanity
   5. Ms Reema Nanavaty, Former General Secretary, SEWA
 
-**- Panel 2: [The Role of Tripartism in Promoting Sustainable and Inclusive Growth](https://www.youtube.com/watch?v=-ECYScP8P3w)**
+### Panel 2: [The Role of Tripartism in Promoting Sustainable and Inclusive Growth](https://www.youtube.com/watch?v=-ECYScP8P3w)
 
   _Moderator_: Dr Gillian Koh, Deputy Director (Research), Institute of Policy Studies
 
@@ -41,7 +40,7 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
   4. Mr Ancheta Tan, President Emeritus, Employers Confederation of the Philippines (ECOP) & Deputy Member, Employers’ Group of the ILO GB
   5. Mr Philip Jennings, Former General Secretary, UNI Global Union
 
-**- Panel 3: [Building an Agile and Future-ready Workforce](https://www.youtube.com/watch?v=pv9AonYr7W4)**
+### Panel 3: [Building an Agile and Future-ready Workforce](https://www.youtube.com/watch?v=pv9AonYr7W4)
 
   _Moderator_: Ms Loke Wei Sue, Presenter, Channel News Asia
 
