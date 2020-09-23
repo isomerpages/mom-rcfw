@@ -18,10 +18,10 @@ sections:
               url: 	/about/rcfw-advisors/
             - title: Upcoming Activities
               description: 
-              url: 
-            - title: Suscribe to us
-              description: Get the latest highlights and updates on RCFW activities
-              url: 
+              url: /activities/
+            - title: Talk to us
+              description: We value your feedback on our RCFW. 
+              url: https://form.gov.sg/#!/5f4da66ae305b50011234e97
     - infobar: 
         title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020 
         subtitle: ASEAN Future of Work track
