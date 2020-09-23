@@ -19,8 +19,8 @@ sections:
             - title: Upcoming Activities
               description: 
               url: /activities/upcoming-activities/hr-tech-fest-asia-2020-asean-fow-track/
-            - title: Talk to us
-              description: We value your feedback on our RCFW. 
+            - title: Take part in our survey!
+              description: We value your feedback on the RCFW. 
               url: https://form.gov.sg/#!/5f4da66ae305b50011234e97
     - infobar: 
         title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020 
