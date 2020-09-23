@@ -2,4 +2,15 @@
 title: RCFW Advisors
 permalink: /about/rcfw-advisors/
 ---
-The RCFW advisors comprise representatives from international organisations, government representatives, workers’ organisations, and ASEAN employers. Their role is to provide guidance on future RCFW activities, as well as offer insights into emerging trends and new challenges for the Future of Work. 
+### To guide the work of the RCFW, we are convening a small group of distinguished representatives and subject-matter experts to take on the role of advisors for the RCFW. We will have a good mix of representatives from international organisations, ASEAN governments, workers’ unions and employers.**
+
+The advisors will:
+
+- keep the RCFW updated and current in its focus areas;
+
+- advise on its strategy and activities to build regional capacity in dealing with the Future of Work; as well as
+
+- recommend international thought leaders and speakers whom the region can learn from.
+
+
+Stay tuned to find out who are our advisors!
