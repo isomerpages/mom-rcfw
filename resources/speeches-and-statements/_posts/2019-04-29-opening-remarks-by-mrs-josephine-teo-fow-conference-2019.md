@@ -60,3 +60,72 @@ Ladies and Gentlemen,<br>
     -   take full advantage of technology to improve job quality,
     -   and just as importantly, to walk this journey with our workers?
 15.  Finally, we also have to be mindful of climate change, which could further disrupt businesses and workers.
+16.  In spite of these challenges, ASEAN remains a place of potential. Because of the growth momentum,
+    -   we can avoid massive youth unemployment or under-employment if we equip the youths with the right vocational skills,
+    -   development can also be more inclusive, especially for women and seniors,
+    -   businesses can be encouraged to make work safer and smarter for vulnerable groups.
+17.  Our efforts today will determine whether our societies continue to progress, where our people get the chance to
+    -   improve economic security,
+    -   fulfil their human potential, and
+    -   enjoy social protection and justice.
+18.  I am hopeful these can be achieved, if we focus on investing in
+    -   our people’s capabilities,
+    -   the institutions of work and
+    -   making work decent and sustainable.
+19.  Singapore therefore affirms the Global Commission’s report and the call to “Work for a Brighter Future”.
+    -   In fact, our approach towards the future of work is broadly aligned with the recommendations.
+    -   Let me share briefly how Singapore thinks about it.
+
+**Singapore’s approach: Tripartism is key**
+
+20.  Since independence, Singapore has recognised the critical need to develop our people to their fullest potential.
+    -   This is aligned with ILO’s human-centred agenda.
+    -   We are always mindful that our policies and initiatives must ultimately benefit our workers.
+21.  Beyond ensuring that our people can find meaningful work, Singapore regularly reviews our employment legislation, policies and programmes, to ensure:
+    -   adequate and appropriate labour and social protection;
+    -   an inclusive workforce; and
+    -   progressive workplaces;
+22.  We also recognise the need to support career mobility for our workers, regardless of where they start.
+23.  What do we mean by career mobility?
+    -   For our young graduates: it means opportunities to enter into exciting jobs that are being created;
+    -   For those already in the workforce: it is the ability to move into new careers or job roles with confidence;
+    -   For our seniors: it means options to continue working if they want to;
+    -   For those in low-wage jobs: it is about having the skills to be more productive and to advance.
+24.  In Singapore, we also believe that career mobility is best achieved through four key commitments by the tripartite partners:
+    -   First, shared ownership of the future. It belongs to us together and we have to create it together;
+    -   Second, shared values in being both pro-worker and pro-business in all that we do;
+    -   Shared vision of an inclusive workforce and progressive workplaces; and
+    -   Last and not least, shared resources to address fresh challenges as one tripartite movement.
+25.  Together, we must constantly nurture a healthy ecosystem that comprises of:
+    -   An agile workforce
+    -   Agile businesses
+    -   And, very importantly, agile government
+26.  An agile workforce is one that is proactive in picking up new skills to stay relevant.
+    -   This is the essence of SkillsFuture, Singapore’s national movement that promotes lifelong learning and skills mastery,
+    -   And the objective is, to borrow the words of my brother Lim Swee Say, to make every worker a better worker, still the best phrase to describe what this is all about.
+    -   And this can be done through the active support of our unions.
+    -   And later during the conference, National Trades Union Congress (NTUC) will share more on how they are supporting this effort through worker 4.0.
+27.  For businesses, it will be increasingly important to take advantage of technology and training
+    -   To keep pace with industry transformation,
+    -   improve the quality of jobs and
+    -   help workers be more productive and empowered.
+    -   The Singapore National Employers Federation (SNEF) will elaborate more on this later in the conference.
+28.  The Government must also stay responsive.
+    -   We have to take the lead, for example, to point out future directions and pitfalls.
+    -   We must also make resources available, or help get them organised.
+    -   And most importantly, Government must help to bring the key stakeholders together, to get our priorities aligned,
+    -   So that we can be greater than the sum of our parts.
+    -   And all of society can make progress together.
+29.  One example of the tripartite partners coming together to ensure career mobility of our workers is through the Adapt and Grow (A&G) initiative.
+    -   And this was launched in 2016.
+    -   The A&G initiative consists of different programmes to help workers transition into new careers.
+30.  Last year, A&G helped more than 30,000 jobseekers move into new jobs.
+    -   An increase of 20% compared to over 25,000 in 2017.
+    -   More than half of jobseekers were  PMETs.
+    -   Nearly one in three was aged 50 and above.
+31.  It is the willingness of our workers to adapt, supported by enlightened employers, and programmes like these that help to keep Singapore’s employment high and unemployment low.
+32.  Industry transformation is also setting the pace, in the finance and maritime sectors, for example.
+33.  Both sectors are significant contributors to Singapore’s economy:
+    -   In the finance sector, it employs more than 160,000 workers who, together, contribute more than 10% of Singapore’s GDP,
+    -   In the maritime sector, there are more than 170,000 workers, who, together, contribute about 7% of Singapore’s GDP.
+34.  To get a sense of what’s happening, why don’t we let you see for yourselves?
