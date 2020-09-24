@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/logo.jpg
+image: /images/rcfw-logo.jpg
 permalink: /
 notification:  
 sections:
