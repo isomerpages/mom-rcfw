@@ -4,28 +4,16 @@ title:  "Opening Remarks by Mrs Josephine Teo, Minister for Manpower and Second 
 date:   2019-04-29
 permalink: /resources/speeches-and-statements/opening-remarks-by-mrs-josephine-teo-fow-conference-2019/
 ---
-# Opening Remarks at Singapore Conference on the Future of Work: Embracing Technology; Inclusive Growth
-
-
-Mr Guy Ryder, Director-General of the International Labour Organization,
-
-Dato Lim Jock Hoi, Secretary-General of  ASEAN,
-
-Fellow Ministers and senior officials from ASEAN and partner nations,
-
-My co-hosts this morning
-
-Sister Mary Liew, President of  NTUC
-
-Brother Ng Chee Meng, Sec-Gen NTUC and Minister PMO
-
-Brother Dr Robert Yap, President  SNEF
-
-Brothers and sisters from the Singapore tripartite movement,
-
-Distinguished Delegates,
-
-Ladies and Gentlemen,
+Mr Guy Ryder, Director-General of the International Labour Organization,<br>
+Dato Lim Jock Hoi, Secretary-General of  ASEAN,<br>
+Fellow Ministers and senior officials from ASEAN and partner nations,<br>
+My co-hosts this morning<br>
+Sister Mary Liew, President of  NTUC<br>
+Brother Ng Chee Meng, Sec-Gen NTUC and Minister PMO<br>
+Brother Dr Robert Yap, President  SNEF<br>
+Brothers and sisters from the Singapore tripartite movement,<br>
+Distinguished Delegates,<br>
+Ladies and Gentlemen,<br>
 
 **Introduction**
 
@@ -47,4 +35,4 @@ Ladies and Gentlemen,
     -   With more than 640 million people, ASEAN is today collectively the world’s fifth-largest economy.
     -   ASEAN’s economy has grown by an average of 5.3% annually since 2000, above the global average of 3.8%.
     -   Our GDP has more than quadrupled over the last two decades to about US$2.7 trillion1  today. This is faster than many other emerging economies.
-8.  Even with an overall growth story, we are not without challenges.
+7.  Even with an overall growth story, we are not without challenges.
