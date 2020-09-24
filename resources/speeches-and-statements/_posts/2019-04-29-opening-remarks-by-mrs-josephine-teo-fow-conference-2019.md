@@ -36,3 +36,27 @@ Ladies and Gentlemen,<br>
     -   ASEAN’s economy has grown by an average of 5.3% annually since 2000, above the global average of 3.8%.
     -   Our GDP has more than quadrupled over the last two decades to about US$2.7 trillion1  today. This is faster than many other emerging economies.
 7.  Even with an overall growth story, we are not without challenges.
+
+**Challenges**
+
+8.  First, demographic shifts.
+9.  Globally, the total fertility rate (TFR) has been in steady decline for decades.
+    -   In the early 50s, half of the world’s population lived in countries where TFR was above 5.5.
+    -   From the last decade, more than half of the world’s population already lived in countries with below replacement TFR, which is 2.12,3
+    -   Among the 10 ASEAN member states, five have below- replacement TFR. Most people are surprised when I share this factoid.
+10.  While TFR decreases, life expectancy has been going up with improved healthcare. This means that the size of aged population will grow rapidly all over the world.
+    -   By 2030, the number of people in the world aged 60 and over will be about the same as China’s population today, at about 1.4 billion.
+    -   In 2015, Japan was the only country in Asia with an elderly population (aged 65 and over) exceeding 15%, but that is a thing of the past.
+    -   Even within ASEAN, the proportion of the population aged 65 and above, is expected to double over two decades, from 7.7% in 2015 to about 15.5% in 2035.
+11.  While some countries in ASEAN have rapidly growing youth populations today, with these demographics, the size of the working age population will fall with time.
+12.  These developments could mean
+    -   Increased pressures on pension or retirement support systems, including for informal workers and, as a result,
+    -   And a need to adjust our strategies. In particular, our growth strategies.
+13.  Besides demographics, the second challenge is that technology will also change the jobs landscape. We now know:
+    -   Technology creates new jobs even as it causes some to be lost
+    -   More importantly, all existing jobs are likely to be transformed
+    -   However, it is not a given that job quality will improve for everyone.
+14.  How can we
+    -   take full advantage of technology to improve job quality,
+    -   and just as importantly, to walk this journey with our workers?
+15.  Finally, we also have to be mindful of climate change, which could further disrupt businesses and workers.
