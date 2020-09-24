@@ -1,5 +1,5 @@
 ---
-title: Workplace Safety Health (WSH) Conference 2020, 17 - 18 Nov 2020 
+title: Workplace Safety and Health (WSH) Conference 2020, 17 - 18 Nov 2020 
 permalink: /activities/upcoming-activities/wsh-conference-2020/
 third_nav_title: Upcoming Activities
 ---
