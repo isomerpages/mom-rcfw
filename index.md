@@ -9,7 +9,7 @@ sections:
     - hero:
         title: RCFW
         subtitle: Regional Centre for the Future of Work 
-        background: /images/hands-together.jpg
+        background: /images/fow-conference-banner-resize.png
         button: Learn More
         url: /about/overview/
         key_highlights:
