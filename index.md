@@ -9,7 +9,7 @@ sections:
     - hero:
         title: RCFW
         subtitle: Regional Centre for the Future of Work 
-        background: /images/fow-conference-banner-resize.png
+        background: /images/fow-conference-alm-resize.jpg
         button: Learn More
         url: /about/overview/
         key_highlights:
@@ -34,6 +34,6 @@ sections:
         description: 
         button: Click here for the highlights! 
         url: /activities/past-activities/fow-conference-2019/
-        image: images/
+        image: images/fow-conference-panel1.jpg
         alt: ASEAN Labour Ministers at the FoW Conference
 ---
