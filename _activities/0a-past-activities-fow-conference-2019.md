@@ -3,7 +3,7 @@ title: Singapore Conference on the Future of Work, 29 April 2019
 permalink: /activities/past-activities/fow-conference-2019/
 third_nav_title: Past Activities
 ---
-The Singapore Ministry of Manpower, in collaboration with the National Trade Unions Congress (NTUC) and Singapore National Employers Federation (SNEF), co-organised the Singapore Conference on the Future of Work with the International Labour Organization (ILO) on 29 April 2019. The conference was a response to the ILO’s call for each member state to conduct national conversations and set out its response to the ILO Global Commission’s Report on the Future of Work, which was released on 22 January 2019. 
+The Singapore Ministry of Manpower, in collaboration with the Singapore National Trade Unions Congress (NTUC) and Singapore National Employers Federation (SNEF), co-organised the Singapore Conference on the Future of Work with the International Labour Organization (ILO) on 29 April 2019. The conference was a response to the ILO’s call for each member state to conduct national conversations and set out its response to the ILO Global Commission’s Report on the Future of Work, which was released on 22 January 2019. 
 
 The conference brought together more than 700 government, worker and employer representatives from ASEAN Member States and ASEAN’s six dialogue partners – Australia, China, India, Japan, Korea and New Zealand. 
 
@@ -53,5 +53,5 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
   6. Mr Alain Dehaze, CEO, Adecco Group
 
 ## Closing Session
-- [Remarks by Mr Ng Chee Meng](https://www.youtube.com/watch?v=k4Sd18M0-78), Secretary General, NTUC
+- [Remarks by Mr Ng Chee Meng](https://www.youtube.com/watch?v=k4Sd18M0-78), Secretary General, Ningapore National Trades Union Congress
 - [Remarks by Dr Robert Yap](https://www.youtube.com/watch?v=MtAEdjsrQJc), President, Singapore National Employers Federation
