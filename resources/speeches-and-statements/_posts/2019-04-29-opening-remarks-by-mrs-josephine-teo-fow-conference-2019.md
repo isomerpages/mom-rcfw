@@ -129,11 +129,11 @@ Ladies and Gentlemen,<br>
 - In the finance sector, it employs more than 160,000 workers who, together, contribute more than 10% of Singapore’s GDP,
 - In the maritime sector, there are more than 170,000 workers, who, together, contribute about 7% of Singapore’s GDP.
 34. To get a sense of what’s happening, why don’t we let you see for yourselves?
-
+<br>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gvwC77iU5M0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9cBDDTTHaNw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<br>
 36. How about a round of applause for our very inspiring workers and the enlightened employers that are helping them to make this transition?
 37. So, I hope these two examples encourage every one of us that it is possible to embrace technology to have inclusive growth in the future of work.
 - We do this by through promoting lifelong learning,
