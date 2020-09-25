@@ -14,4 +14,4 @@ The advisors will:
 
 <br>
 
-Stay tuned to find out who are our advisors!
+Stay tuned to find out are our advisors are!
