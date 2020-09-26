@@ -21,16 +21,7 @@ sections:
               url: /activities/upcoming-activities/hr-tech-fest-asia-2020-asean-fow-track/
             - title: Tell us what you think
               description: We value your feedback on the RCFW. 
-              url: https://form.gov.sg/#!/5f4da66ae305b50011234e97
-     - carousel:
-      - subtitle: HR Tech Festival Asia 2020
-        title: 
-        description: Hear from thought leaders on the impact of COVID-19 on labour markets and how HR leaders can support business transformation and human development in the Future of Work. <a href="https://hubs.ly/H0tWL3H0">Sign up for the event!</a>
-        image: images/fow-conference-panel1.jpg
-      - subtitle: HR Tech Festival Asia 2020
-        title: 
-        description: Hear from thought leaders on the impact of COVID-19 on labour markets and how HR leaders can support business transformation and human development in the Future of Work. <a href="https://hubs.ly/H0tWL3H0">Sign up for the event!</a>
-        image: images/FoW-Conference.jpg    
+              url: https://form.gov.sg/#!/5f4da66ae305b50011234e97  
     - infobar: 
         title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020 
         subtitle: ASEAN Future of Work track
