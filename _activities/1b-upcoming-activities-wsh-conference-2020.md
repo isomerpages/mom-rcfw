@@ -3,7 +3,9 @@ title: Singapore Workplace Safety and Health (WSH) e-Conference 2020, 17 - 18 No
 permalink: /activities/upcoming-activities/wsh-conference-2020/
 third_nav_title: Upcoming Activities
 ---
-## Theme: Enabling Business and Empowering Workforce in the COVID-19 World
+### Theme: Enabling Business and Empowering Workforce in the COVID-19 World
+
+<a href='https://www.freepik.com/vectors/medical'>Medical vector created by freepik - www.freepik.com</a>
 
 Amidst much uncertainty and dampened economic activity, businesses worldwide are still battling the economic fallout from the COVID-19 pandemic. Coupled with digitalisation and transformation challenges, the journey to recovery is set to be protracted. To promote safe working conditions for all workers and instil a preventive culture that safeguards workers' safety and health, the RCFW is working with the Workplace Safety and Health Council (WSHC) to organise this year's Singapore Workplace Safety and Health e-Conference 2020. 
 
