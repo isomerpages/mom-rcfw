@@ -13,8 +13,6 @@ It is a direct response to the International Labour Organization’s (ILO) 2019 
 
 During the 2019 Singapore Conference on the Future of Work, Minister for Manpower Mrs. Josephine Teo announced Singapore’s intention to set up a regional initiative, for continued social dialogue and capacity building on this pertinent topic. This was supported by the ASEAN member states who signed the ASEAN Labour Ministers’ Statement on the Future of Work at the Singapore Conference. This was the first regional statement of its kind.
 
-![just like links, you can include titles which appear when hovered](/images/FoW-Conference-ALM.jpeg "ASEAN Labour Ministers signed the Joint Statement on the Future of Work at the 2019 Singapore Conference on the Future of Work")
-
 ### Why focus on ASEAN?
 
 With more than 640 million people, ASEAN is collectively the world’s fifth-largest economy. As a grouping, we have also grown more than 5% annually over the past two decades.
