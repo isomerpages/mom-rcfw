@@ -11,13 +11,13 @@ The conference brought together more than 700 government, worker and employer re
 
 To watch the video recordings of the sessions, please click the session titles below. Videos are provided by the International Labour Organization (ILO).  
 
-## Opening Session 
+### Opening Session 
 
 - [Welcome remarks by Mrs Josephine Teo](https://www.youtube.com/watch?v=gvwC77iU5M0&t=104s), Minister for Manpower and Second Minister for Home Affairs (Singapore)
 - [Opening address by Mr Guy Ryder](https://www.youtube.com/watch?v=9vEm_RGhcno), ILO Director-General
 - [Keynote presentation by Ms Reema Nanavaty](https://www.youtube.com/watch?v=_jqyXqOZbd0), Commissioner from ILO Global Commission on the Future of Work
 
-## Panel Discussions 
+### Panel Discussions 
 Tripartite speakers from the region, Commissioners from the ILO’s Global Commission of the Future of Work and industry leaders shared insights and engaged in in-depth discussions with the participants. 
 
 #### Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)
@@ -54,7 +54,7 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
   5. Dr Bicky Bhangu, Regional Director for Southeast Asia and Pacific, Rolls-Royce
   6. Mr Alain Dehaze, CEO, Adecco Group
 
-## Closing Session
+### Closing Session
 - [Remarks by Mr Ng Chee Meng](https://www.youtube.com/watch?v=k4Sd18M0-78), Secretary General, Ningapore National Trades Union Congress
 - [Remarks by Dr Robert Yap](https://www.youtube.com/watch?v=MtAEdjsrQJc), President, Singapore National Employers Federation
 
