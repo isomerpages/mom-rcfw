@@ -55,3 +55,12 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
 ## Closing Session
 - [Remarks by Mr Ng Chee Meng](https://www.youtube.com/watch?v=k4Sd18M0-78), Secretary General, Ningapore National Trades Union Congress
 - [Remarks by Dr Robert Yap](https://www.youtube.com/watch?v=MtAEdjsrQJc), President, Singapore National Employers Federation
+
+##### **Event gallery**
+
+| <a href="\images\fow-conference-2019\opening-mom.jpg"><img src="\images\fow-conference-2019\opening-mom.jpg" style="width:300px;" /></a> | <a href="\images\fow-conference-2019\opening-ilo.png"><img src="\images\fow-conference-2019\opening-ilo.png" style="width:300px;" /></a> | 
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | 
+| <a href="\images\fow-conference-2019\panel1.jpg"><img src="\images\fow-conference-2019\panel1.jpg" style="width:300px;" /></a> | <a href="\images\fow-conference-2019\panel2.jpeg"><img src="\images\fow-conference-2019\panel2.jpeg" style="width:300px;" /></a> | 
+| <a href="\images\images\fow-conference-2019\panel3.jpg"><img src="\images\fow-conference-2019\panel3.jpg" style="width:300px;" /></a> | <a href="\images\fow-conference-2019\closing-ntuc.jpg"><img src="\images\fow-conference-2019\closing-ntuc.jpg" style="width:300px;" /></a> | 
+| <a href="\images\fow-conference-2019\closing-snef.jpg"><img src="\images\fow-conference-2019\closing-snef.jpg" style="width:250px;" /></a> | <a href="\images\fow-conference-2019\alm.jpg"><img src="\images\fow-conference-2019\alm.jpg" style="width:250px;" /></a> |                                                                                                                                                                                        
+
