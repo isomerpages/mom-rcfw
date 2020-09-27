@@ -26,6 +26,6 @@ The advisors will:
 	</div>
 </div>
 
-| [**Dato Lim Jock Hoi**](https://asean.org/asean/asean-secretariat/secretary-general-of-asean/) |     [Ms Mary Liew]<a href="/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf"></a> |      [Ms Mary Liew]<a href="/rcfw-advisors/CV-of-Dr-Park-Doo-Yong-as-of-Sept-2020.pdf"></a> |  
+| [**Dato Lim Jock Hoi**](https://asean.org/asean/asean-secretariat/secretary-general-of-asean/) |     [Ms Mary Liew](/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf") |      [Ms Mary Liew]<a href="/rcfw-advisors/CV-of-Dr-Park-Doo-Yong-as-of-Sept-2020.pdf"></a> |  
 
 Stay tuned to find out are our advisors are!
