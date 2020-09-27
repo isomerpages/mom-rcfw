@@ -55,10 +55,14 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
   4. Ms Teo Lay Lim, Senior MD ASEAN and Country MD, Accenture 
   5. Dr Bicky Bhangu, Regional Director for Southeast Asia and Pacific, Rolls-Royce
   6. Mr Alain Dehaze, CEO, Adecco Group
+  
+---
 
 ### Closing Session
 - [Remarks by Mr Ng Chee Meng](https://www.youtube.com/watch?v=k4Sd18M0-78), Secretary General, Ningapore National Trades Union Congress
 - [Remarks by Dr Robert Yap](https://www.youtube.com/watch?v=MtAEdjsrQJc), President, Singapore National Employers Federation
+
+---
 
 ##### **Event gallery**
 
