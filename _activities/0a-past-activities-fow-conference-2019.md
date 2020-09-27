@@ -14,6 +14,7 @@ To watch the **video recordings** of the sessions, please click the session titl
 ---
 
 ### Opening Session 
+
 | <a href="\images\fow-conference-2019\opening-mom.jpg"><img src="\images\fow-conference-2019\opening-mom.jpg" style="width:400px;" /></a> | <a href="\images\fow-conference-2019\opening-ilo.png"><img src="\images\fow-conference-2019\opening-ilo.png" style="width:400px;" /></a> | 
 
 - [Welcome remarks by Mrs Josephine Teo](https://www.youtube.com/watch?v=gvwC77iU5M0&t=104s), Minister for Manpower and Second Minister for Home Affairs (Singapore)
@@ -64,6 +65,7 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
 ---
 
 ### Closing Session
+
 | <a href="\images\fow-conference-2019\closing-ntuc.jpg"><img src="\images\fow-conference-2019\closing-ntuc.jpg" style="width:400px;" /></a> | <a href="\images\fow-conference-2019\closing-snef.jpg"><img src="\images\fow-conference-2019\closing-snef.jpg" style="width:400px;" /></a> | 
 
 - [Remarks by Mr Ng Chee Meng](https://www.youtube.com/watch?v=k4Sd18M0-78), Secretary General, Ningapore National Trades Union Congress
