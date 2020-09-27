@@ -3,7 +3,7 @@ title: Singapore Conference on the Future of Work, 29 April 2019
 permalink: /activities/past-activities/fow-conference-2019/
 third_nav_title: Past Activities
 ---
-![just like links, you can include titles which appear when hovered](/images/fow-conference-2019/banner.png)
+![fow-conference-banner](/images/fow-conference-2019/banner.png)
 
 The Singapore Ministry of Manpower, in collaboration with the Singapore National Trade Unions Congress (NTUC) and Singapore National Employers Federation (SNEF), co-organised the Singapore Conference on the Future of Work with the International Labour Organization (ILO) on 29 April 2019. The conference was a response to the ILO’s call for each member state to conduct national conversations and set out its response to the ILO Global Commission’s Report on the Future of Work, which was released on 22 January 2019. 
 
