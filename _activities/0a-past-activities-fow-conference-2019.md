@@ -11,6 +11,10 @@ The conference brought together more than 700 government, worker and employer re
 
 To watch the **video recordings** of the sessions, please click the session titles below. Videos are provided by the International Labour Organization (ILO).  
 
+<div class="bp-youtube">
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/xXyoO1q8wegstart=65' frameborder='0' allowfullscreen></iframe>
+</div>
+
 ### Opening Session 
 
 - [Welcome remarks by Mrs Josephine Teo](https://www.youtube.com/watch?v=gvwC77iU5M0&t=104s), Minister for Manpower and Second Minister for Home Affairs (Singapore)
@@ -21,6 +25,20 @@ To watch the **video recordings** of the sessions, please click the session titl
 
 ### Panel Discussions 
 Tripartite speakers from the region, Commissioners from the ILO’s Global Commission of the Future of Work and industry leaders shared insights and engaged in in-depth discussions with the participants. 
+
+<div>
+	<div class="bp-youtube">
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/xXyoO1q8weg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/asean-countries/share/what-young-people-say/"><img src="/images/shared/share-icon.png" alt="Share"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+			<a href="/asean-countries/go/for-students/"><img src="/images/shared/go-icon.png" alt="Go"></a>
+		</div>
+	</div>
+</div>
 
 #### Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)
 
