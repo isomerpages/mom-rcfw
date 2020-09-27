@@ -18,14 +18,14 @@ The advisors will:
 			<img src="/images/rcfw-advisors/dato-lim-jock-hoi-final.png" alt="Dato Lim Jock Hoi">
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf"><img src="/images/rcfw-advisors/mary-liew-final.png" alt="Ms Mary Liew"></a>
+			<img src="/images/rcfw-advisors/mary-liew-final.png" alt="Ms Mary Liew">
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/rcfw-advisors/CV-of-Dr-Park-Doo-Yong-as-of-Sept-2020.pdf"><img src="/images/rcfw-advisors/dr-park-doo-yong-final.png" alt="Dr Park Doo Yong"></a>
+			<img src="/images/rcfw-advisors/dr-park-doo-yong-final.png" alt="Dr Park Doo Yong">
 		</div>
 	</div>
 </div>
 
-| [Dato Lim Jock Hoi](https://asean.org/asean/asean-secretariat/secretary-general-of-asean/) | [Ms Mary Liew]<a href="/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf"></a> | [Ms Mary Liew]<a href="/rcfw-advisors/CV-of-Dr-Park-Doo-Yong-as-of-Sept-2020.pdf"></a> |  
+| [**Dato Lim Jock Hoi**](https://asean.org/asean/asean-secretariat/secretary-general-of-asean/) |     [Ms Mary Liew]<a href="/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf"></a> |      [Ms Mary Liew]<a href="/rcfw-advisors/CV-of-Dr-Park-Doo-Yong-as-of-Sept-2020.pdf"></a> |  
 
 Stay tuned to find out are our advisors are!
