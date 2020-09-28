@@ -2,7 +2,7 @@
 title: Logo
 permalink: /about/logo/
 ---
-**The RCFW logo represents our commitment towards developing innovative solutions and capabilities and promoting social dialogue between workers, employers and governments in preparing for the future of work.**
+**The RCFW logo represents our commitment towards developing innovative solutions and capabilities and promoting social dialogue between workers, employers and governments in preparing for the Future of Work.**
 
 | <a href="/images/rcfw-logo-final.png"><img src="/images/rcfw-logo-final.png" style="width:300px;" /></a> | 
 
