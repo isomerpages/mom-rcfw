@@ -2,46 +2,38 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/rcfw-logo-final.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification:  
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: RCFW
+        subtitle: Regional Centre for the Future of Work 
+        background: /images/fow-conference-alm-resize.jpg
+        button: Learn More
+        url: /about/overview/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            - title: RCFW Advisors
+              description: Who are they?
+              url: 	/about/rcfw-advisors/
+            - title: Upcoming Activities
+              description: 
+              url: /activities/upcoming-activities/hr-tech-fest-asia-2020-asean-fow-track/
+            - title: Tell us what you think
+              description: We value your feedback on the RCFW. 
+              url: https://form.gov.sg/#!/5f4da66ae305b50011234e97    
+    - infobar: 
+        title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020 
+        subtitle: ASEAN Future of Work track
+        description: Hear from thought leaders on the impact of COVID-19 on labour markets and how HR leaders can support business transformation and human development in the Future of Work.
+        button: Sign up for the event!
+        url:  https://hubs.ly/H0tWL3H0
     - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
-        button: Learn More
-        url: /core-values/
-        image: /images/integrity.png
-        alt: Members of the Ministry of ABC shaking hands
-    - infopic:
-        title: Professionalism
-        subtitle: Core Values
-        description: We strive to deliver work of the highest calibre
-        button: Learn More
-        url: /core-values/
-        image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
+        title: Singapore Conference on the Future of Work,<br>29 April 2019
+        subtitle: "Embracing Technology; Inclusive Growth"
+        description: 
+        button: Click here for the highlights! 
+        url: /activities/past-activities/fow-conference-2019/
+        image: images/fow-conference-panel1.jpg
+        alt: ASEAN Labour Ministers at the FoW Conference
 ---

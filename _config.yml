@@ -1,4 +1,4 @@
-title: Title
+title: Regional Centre for the Future of Work
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
@@ -21,11 +21,14 @@ colors:
 
 collections:
   about:
-    output: true
+      output: true
   activities:
+    output: true
+  resources:
     output: true
   contact-us:
     output: true
+resources_name: resources
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
