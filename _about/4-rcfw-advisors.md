@@ -12,11 +12,7 @@ The advisors will:
 
 - recommend international thought leaders and speakers whom the region can learn from.
 
-<a href="https://asean.org/asean/asean-secretariat/secretary-general-of-asean/"><img src="\images\rcfw-advisors\dato-lim-jock-hoi.png"></a>  
-
-image: /images/rcfw-advisors/dr-park-doo-yong.png
-
-image= /images/rcfw-advisors/ms-mary-liew.png  
+<img src="\images\rcfw-advisors\three-rcfw-advisors-combined.png">  
 
 Stay tuned to find out who the other advisors are!
 
