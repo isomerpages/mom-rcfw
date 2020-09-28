@@ -4,7 +4,7 @@ permalink: /about/logo/
 ---
 **The RCFW logo represents our commitment towards developing innovative solutions and capabilities and promoting social dialogue between workers, employers and governments in preparing for the future of work.**
 
-| <a href="/images/rcfw-logo-final.png"><img src="/images/rcfw-logo-final.png" style="width:250px;" /></a> | 
+| <a href="/images/rcfw-logo-final.png"><img src="/images/rcfw-logo-final.png" style="width:300px;" /></a> | 
 
 The **sixteen coloured dots** form a circle to symbolise our aspiration for united and harmonious relations between tripartite partners of the ten ASEAN member states and six dialogue partners. These dots are enclosed within a **speech bubble** to represent our objective of promoting social dialogue between these key stakeholders, through our suite of activities.
 
