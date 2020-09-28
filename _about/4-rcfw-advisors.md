@@ -14,9 +14,9 @@ The advisors will:
 
 <a href="https://asean.org/asean/asean-secretariat/secretary-general-of-asean/"><img src="\images\rcfw-advisors\dato-lim-jock-hoi.png"></a>  
 
-<a href="/rcfw-advisors/CV-of-Dr-Park-Doo-Yong-as-of-Sept-2020.pdf"><img src="\images\rcfw-advisors\dr-park-doo-yong.png"></a> 
+<img src="\images\rcfw-advisors\dr-park-doo-yong.png">
 
-<a href="/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf"><img src="\images\rcfw-advisors\ms-mary-liew"></a>   
+<img src="\images\rcfw-advisors\ms-mary-liew.png">  
 
 Stay tuned to find out who the other advisors are!
 
