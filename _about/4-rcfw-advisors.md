@@ -26,7 +26,7 @@ The advisors will:
 		</div>
 		<br>
 		<div class="col one-third-desktop is-one-third-tablet--bottom--lg">
-			<a href="="/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf" class="project-link">
+			<a href="/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf" class="project-link">
 				<img src="/images/rcfw-advisors/mary-liew-final.png" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
