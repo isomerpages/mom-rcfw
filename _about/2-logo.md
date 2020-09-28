@@ -6,8 +6,6 @@ permalink: /about/logo/
 
 | <a href="/images/rcfw-logo-final.png"><img src="/images/rcfw-logo-final.png" style="width:250px;" /></a> | 
 
-<img src="/images/rcfw-logo-final.png" alt="RCFW Logo" stlye="width:250"/>
-
 The **sixteen coloured dots** form a circle to symbolise our aspiration for united and harmonious relations between tripartite partners of the ten ASEAN member states and six dialogue partners. These dots are enclosed within a **speech bubble** to represent our objective of promoting social dialogue between these key stakeholders, through our suite of activities.
 
 The **uppercase and lowercase letter ‘I’**, represent the RCFW’s focus to nurture innovative ideas and share insights on adapting to Future of Work trends.
