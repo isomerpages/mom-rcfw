@@ -14,7 +14,7 @@ The advisors will:
 
 <div>
 	<div class="row is-multiline">
-		<div class="col one-third-desktop is-one-third-tablet padding--bottom--lg">
+		<div class="col one-third-desktop is-one-third-tablet padding--bottom--0.5em">
 			<a href="https://asean.org/asean/asean-secretariat/secretary-general-of-asean/" class="project-link">
 				<img src="/images/rcfw-advisors/dato-lim-jock-hoi-final.png" class="project-image">
 			<div class="project-card">
@@ -25,7 +25,7 @@ The advisors will:
 			</a>
 		</div>
 		<br>
-		<div class="col one-third-desktop is-one-third-tablet padding--bottom--lg">
+		<div class="col one-third-desktop is-one-third-tablet padding--bottom--0.5em">
 			<a href="/rcfw-advisors/CV-of-President-Mary-Liew-as-of-Sept-2020.pdf" class="project-link">
 				<img src="/images/rcfw-advisors/mary-liew-final.png" class="project-image">
 			<div class="project-card">
@@ -36,7 +36,7 @@ The advisors will:
 			</a>
                 </div>
 		<br>
-		<div class="col one-third-desktop is-one-third-tablet padding--bottom--lg">
+		<div class="col one-third-desktop is-one-third-tablet padding--bottom--0.5em">
 			<a href="/rcfw-advisors/CV-of-Dr-Park-Doo-Yong-as-of-Sept-2020.pdf" class="project-link">
 				<img src="/images/rcfw-advisors/dr-park-doo-yong-final.png" class="project-image">
 			<div class="project-card">
