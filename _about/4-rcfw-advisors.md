@@ -49,4 +49,4 @@ The advisors will:
 	</div>
 </div>
 
-Stay tuned to find out are our advisors are!
+Stay tuned to find out who the other advisors are!
