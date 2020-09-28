@@ -12,7 +12,7 @@ The advisors will:
 
 - recommend international thought leaders and speakers whom the region can learn from.
 
-![RCFW Advisors](/images/three-rcfw-advisors-combined2.png)
+![RCFW Advisors](/images/rcfw-advisors/three-rcfw-advisors.png)
 
 
 Stay tuned to find out who the other advisors are!
