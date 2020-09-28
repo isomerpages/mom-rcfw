@@ -14,9 +14,9 @@ The advisors will:
 
 <a href="https://asean.org/asean/asean-secretariat/secretary-general-of-asean/"><img src="\images\rcfw-advisors\dato-lim-jock-hoi.png"></a>  
 
-<img src="\images\rcfw-advisors\dr-park-doo-yong.png">
+image: /images/rcfw-advisors/dr-park-doo-yong.png
 
-<img src="\images\rcfw-advisors\ms-mary-liew.png">  
+image= /images/rcfw-advisors/ms-mary-liew.png  
 
 Stay tuned to find out who the other advisors are!
 
