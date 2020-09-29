@@ -28,6 +28,7 @@ collections:
     output: true
   contact-us:
     output: true
+google_analytics: UA-179243882-1
 resources_name: resources
 
 ##################################################################################################################
