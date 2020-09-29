@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Regional Center for the Future of Work
 description: Brief site description here
 image: /images/rcfw-logo-final.png
 permalink: /
