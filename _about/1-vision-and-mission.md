@@ -2,6 +2,8 @@
 title: Vision and Mission 
 permalink: /about/vision-and-mission/
 ---
+![vision-and-mission](/images/vision-and-mission.png)
+
 ## Vision:
 
 A region ready for the future of work, leveraging a skilled workforce, providing safe and decent work for all, and undergirded by harmonious industrial relations
