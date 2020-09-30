@@ -4,18 +4,6 @@ permalink: /about/vision-and-mission/
 ---
 ![vision-and-mission](/images/vision-and-mission.png)
 
-## Vision:
-
-A region ready for the future of work, leveraging a skilled workforce, providing safe and decent work for all, and undergirded by harmonious industrial relations
-
-## Mission:
-
-1. Share knowledge
-
-2. Build capability
-
-3. Foster collaborations
-
 <br>
 
 The RCFW will institutionalise our region’s collective effort to take advantage of emerging opportunities and to tackle Future of Work challenges, especially during the COVID-19 pandemic.
