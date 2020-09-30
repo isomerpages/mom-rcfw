@@ -2,7 +2,7 @@
 title: Vision and Mission 
 permalink: /about/vision-and-mission/
 ---
-![vision-and-mission](/images/vision-and-mission.png)
+![vision-and-mission](/images/vision-and-mission2.png)
 
 <br>
 
