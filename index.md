@@ -9,7 +9,7 @@ sections:
     - hero:
         title: RCFW Launched!
         subtitle: Regional Centre for the Future of Work 
-        background: /images/min-launch.jpg
+        background: /images/fow-conference-alm-resize.jpg
         button: Learn More
         url: /about/overview/
         key_highlights:
