@@ -2,14 +2,14 @@
 layout: homepage
 title: Regional Center for the Future of Work
 description: Brief site description here
-image: /images/min-launch.jpg
+image: /images/rcfw-logo-final.png
 permalink: /
 notification:  
 sections:
     - hero:
         title: RCFW Launched!
         subtitle: Regional Centre for the Future of Work 
-        background: /images/fow-conference-alm-resize.jpg
+        background: /images/min-launch.jpg
         button: Learn More
         url: /about/overview/
         key_highlights:
