@@ -18,7 +18,7 @@ sections:
               url: 	/about/rcfw-advisors/
             - title: Upcoming Activities
               description: 
-              url: /activities/upcoming-activities/hr-tech-fest-asia-2020-asean-fow-track/
+              url: /activities/upcoming-activities/wsh-conference-2020/
             - title: Tell us what you think
               description: We value your feedback on the RCFW. 
               url: https://form.gov.sg/#!/5f4da66ae305b50011234e97    
