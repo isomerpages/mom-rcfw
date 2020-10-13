@@ -22,12 +22,14 @@ sections:
             - title: Tell us what you think
               description: We value your feedback on the RCFW. 
               url: https://form.gov.sg/#!/5f4da66ae305b50011234e97    
-    - infobar: 
+    - infopic: 
         title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020 
         subtitle: ASEAN Future of Work track
-        description: Hear from thought leaders on the impact of COVID-19 on labour markets and how HR leaders can support business transformation and human development in the Future of Work.
-        button: Sign up for the event!
-        url:  https://hubs.ly/H0tWL3H0
+        description: 
+        button: View the highlights and session recordings! 
+        url:  /activities/past-activities/hr-tech-fest-asia-2020-asean-fow-track/
+        image: images/min-launch.jpg
+        alt: Minister for Manpower Mrs Josephine Teo Delivered the Keynote Address at the HR Tech Festival Asia 2020 
     - infopic:
         title: Singapore Conference on the Future of Work,<br>29 April 2019
         subtitle: "Embracing Technology; Inclusive Growth"
