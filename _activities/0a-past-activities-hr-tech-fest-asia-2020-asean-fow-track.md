@@ -17,8 +17,6 @@ International experts and tripartite partners will share on challenges and best 
 
 - Day 3 will focus on the impact of technological advances on industries and developing the necessary digital skills through lifelong learning.
 
-<iframe src="https://drive.google.com/file/d/1OIpVAHfe6VxzO4RTQDExs9tshOdx-YPn/preview" width="640" height="480" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe src="https://drive.google.com/file/d/1OIpVAHfe6VxzO4RTQDExs9tshOdx-YPn/preview" width="640" height="480"></iframe>
+<iframe frameborder="0" width="640" height="480" src="https://drive.google.com/file/d/1OIpVAHfe6VxzO4RTQDExs9tshOdx-YPn/preview" ; allowfullscreen="true" allow="autoplay"></iframe>
 
 To sign up for the event, visit the event webpage [here](https://www.hrtechfestivalasia.com/). 
