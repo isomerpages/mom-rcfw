@@ -7,9 +7,9 @@ permalink: /
 notification:  
 sections:
     - hero:
-        title: RCFW Launched!
+        title: 
         subtitle: 
-        background: /images/fow-conference-alm-resize.jpg
+        background: /images/homepage-alternative.jpg
         button: 
         url: /about/overview/
         key_highlights:
