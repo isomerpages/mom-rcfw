@@ -28,7 +28,7 @@ sections:
         description: 
         button: View the highlights and session recordings! 
         url:  /activities/past-activities/hr-tech-fest-asia-2020-asean-fow-track/
-        image: images/min-launch.jpg
+        image: images/keynote-address-hr-tech-festival-asia-after-event.PNG
         alt: Minister for Manpower Mrs Josephine Teo Delivered the Keynote Address at the HR Tech Festival Asia 2020 
     - infopic:
         title: Singapore Conference on the Future of Work,<br>29 April 2019
