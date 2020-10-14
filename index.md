@@ -25,7 +25,7 @@ sections:
     - infobar: 
         title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020 
         subtitle: ASEAN Future of Work track
-        description: 
+        description: Over 1,700 regional participants attended our conference track, to hear from international experts and tripartite partners on the impact of COVID-19 on labour markets and how HR leaders can support business transformation and human development in the Future of Work. 
         button: View the highlights and session recordings! 
         url:  /activities/past-activities/hr-tech-fest-asia-2020-asean-fow-track/
     - infopic:
