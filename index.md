@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/homepage-alternative4.jpg
+        background: /images/homepage-alternative5.jpg
         button: 
         url: /about/overview/
         key_highlights:
