@@ -3,7 +3,7 @@ title: HR Tech Festival Asia 2020, 29 Sep - 1 Oct 2020
 permalink: /activities/past-activities/hr-tech-fest-asia-2020-asean-fow-track/
 third_nav_title: Past Activities
 ---
-![Keynote-Address-HR-Tech-Festival-Asia-2020](/images/keynote-address-hr-tech-festival-asia-after-event.PNG)
+![Keynote-Address-HR-Tech-Festival-Asia-2020](/images/min-launch.jpg)
 
 The Singapore Ministry of Manpower is collaborating with HRM Asia on the “ASEAN Future of Work” track at the HR Tech Festival Asia 2020, from 29 September – 1 October 2020. Due to the ongoing COVID-19 situation, the event will be held virtually this year.
 
