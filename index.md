@@ -25,7 +25,7 @@ sections:
     - infopic: 
         title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020 
         subtitle: ASEAN Future of Work track
-        description: RCFW Launched!
+        description: **RCFW Launched!**
         button: View the highlights and session recordings! 
         url:  /activities/past-activities/hr-tech-fest-asia-2020-asean-fow-track/
         image: images/keynote-address-hr-tech-festival-asia-after-event.PNG
