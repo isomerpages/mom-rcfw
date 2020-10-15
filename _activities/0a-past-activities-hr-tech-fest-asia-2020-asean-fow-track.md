@@ -5,18 +5,22 @@ third_nav_title: Past Activities
 ---
 ![Keynote-Address-HR-Tech-Festival-Asia-2020](/images/min-launch.jpg)
 
-The Singapore Ministry of Manpower is collaborating with HRM Asia on the “ASEAN Future of Work” track at the HR Tech Festival Asia 2020, from 29 September – 1 October 2020. Due to the ongoing COVID-19 situation, the event will be held virtually this year.
+### The RCFW was launched at the HR Tech Festival Asia 2020!
 
-This annual event has typically been attended by over 4,000 participants in recent years. Representatives from the government, worker and employer organisations, industry leaders and HR practitioners who are interested in the future of work are encouraged to attend.
+“_COVID-19 has been a forceful reminder of the urgent need for Governments, businesses and workers to come together to prepare for the Future of Work_,” said Minister for Manpower Mrs Josephine Teo during her Keynote Address at the virtual HR Tech Festival Asia on 29 September.
 
-International experts and tripartite partners will share on challenges and best practices to mitigate the impact of COVID-19 on the labour market, as well as solutions to support business transformation and human capital development in the Future of Work.
+The pandemic has accelerated many Future of Work trends and drivers of change in the workforce and workplace. To help ASEAN countries address challenges, such as the digital transformation of industries, and to tap on opportunities with the eventual recovery, the Singapore Ministry of Manpower launched the RCFW during the conference, as part of its ASEAN Future of Work track which was co-organised with HRM Asia.
 
-- Day 1 will focus on mitigating the impact of COVID-19 on labour markets in the region, the importance of tripartite collaboration and improving employment facilitation services in a post-COVID world.
+Over 1,700 regional participants tuned in to the online presentations and panel discussions under the ASEAN Future of Work track, to hear from the international experts, senior government representatives from the region, tripartite partners and thought leaders who shared on:
+- challenges and best practices to mitigate the impact of COVID-19 on the labour market; as well as
+- solutions to support business transformation and human capital development in the Future of Work.
 
-- Day 2 will focus on transforming the HR sector to help businesses and workers tackle challenges and seize opportunities during the pandemic and beyond.
+Day 1 focused on mitigating the impact of COVID-19 on labour markets in the region, the importance of tripartite collaboration and improving employment facilitation services in a post-COVID world.
 
-- Day 3 will focus on the impact of technological advances on industries and developing the necessary digital skills through lifelong learning.
+Day 2 focused on transforming the HR sector to help businesses and workers tackle challenges and seize opportunities during the pandemic and beyond.
 
-<iframe frameborder="0" width="640" height="480" src="https://drive.google.com/file/d/1OIpVAHfe6VxzO4RTQDExs9tshOdx-YPn/preview" ; allowfullscreen="true" allow="autoplay"></iframe>
+Day 3 focused on the impact of technological advances on industries and developing the necessary digital skills through lifelong learning.
 
-To sign up for the event, visit the event webpage [here](https://www.hrtechfestivalasia.com/). 
+Download the programme agenda here. 
+
+We thank all participants and speakers who contributed to the success of our ASEAN Future of Work track.
