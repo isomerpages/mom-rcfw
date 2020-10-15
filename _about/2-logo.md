@@ -5,7 +5,7 @@ permalink: /about/logo/
 **The RCFW logo represents our commitment towards developing innovative solutions and capabilities and promoting social dialogue between workers, employers and governments in preparing for the Future of Work.**
 <br>
 
-| <a href="/images/rcfw-logo-final.png"><img src="/images/rcfw-logo-final.jpg" style="width:300px;" /></a> | 
+| <a href="/images/rcfw-logo-final.png"><img src="/images/rcfw-logo-final.png" style="width:300px;" /></a> | 
 
 The warm yellow represents friendship and camaraderie between regional tripartite partners, while the orange represents the vibrancy and commitment of ASEAN as a region, to work together to answer the ILO's call to "Work for a Brighter Future" for all people. 
 
