@@ -7,7 +7,7 @@ third_nav_title: Past Activities
 
 ### The RCFW was launched at the HR Tech Festival Asia 2020!
 
-“_COVID-19 has been a forceful reminder of the urgent need for Governments, businesses and workers to come together to prepare for the Future of Work_,” said Minister for Manpower Mrs Josephine Teo during her Keynote Address at the virtual HR Tech Festival Asia on 29 September.
+“_COVID-19 has been a forceful reminder of the urgent need for Governments, businesses and workers to come together to prepare for the Future of Work_,” said Minister for Manpower Mrs. Josephine Teo during her Keynote Address at the virtual HR Tech Festival Asia on 29 September.
 
 The pandemic has accelerated many Future of Work trends and drivers of change in the workforce and workplace. To help ASEAN countries address challenges, such as the digital transformation of industries and to tap on opportunities with the eventual recovery, the Singapore Ministry of Manpower launched the RCFW during the conference, as part of its ASEAN Future of Work track which was co-organised with HRM Asia.
 
