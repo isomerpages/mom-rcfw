@@ -15,7 +15,7 @@ By ensuring that every worker and business can fulfil their maximum potential, w
 
 ![Workplace Safety and Health](/images/focus-areas/focus-area-wsh.png)
 <br>
-Workplace safety and health (WSH) is a key foundation to enable decent work. We need to ensure safe working conditions and entrench a preventative HR culture that prioritises workers’ safety and health. This includes advocating for all aspects of workplace safety, from maintaining public health to preventing workplace injuries and property damage. 
+Workplace safety and health (WSH) is the foundation for decent work. We need to ensure safe working conditions and entrench a preventative HR culture that prioritises workers’ safety and health. This includes advocating for all aspects of workplace safety, from maintaining public health to preventing workplace injuries and property damage. 
 
 The COVID-19 pandemic has brought new meaning to WSH. It is critical for our region to focus on WSH capabilities, to ensure a safe recovery and provide decent work for all. 
    
