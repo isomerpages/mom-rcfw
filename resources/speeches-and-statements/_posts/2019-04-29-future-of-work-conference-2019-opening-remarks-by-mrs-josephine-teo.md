@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Singapore Conference on the Future of Work 2019, Opening Remarks by Mrs Josephine Teo, Minister for Manpower and Second Minister for Home Affairs"
+title:  "Singapore Conference on the Future of Work 2019, Opening Remarks by Mrs. Josephine Teo, Minister for Manpower and Second Minister for Home Affairs"
 date:   2019-04-29
 permalink: /resources/speeches-and-statements/future-of-work-conference-2019-opening-remarks-by-mrs-josephine-teo/
 ---
