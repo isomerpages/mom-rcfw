@@ -55,7 +55,7 @@ Ladies and gentlemen
 
 **[Thrust 2] Equip HR professionals with emerging skills**
 
-19.  Willis Towers Watson’s study noted that almost 90% of HR job roles today will be impacted by technology. Based on IHRP’s estimate of their certified community, 53% of certified HR professionals in Singapore will be affected. The increased availability of technology-enabled solutions and data analytics will elevate the value-add of many HR functions, creating new opportunities. These include the HR data analyst, and the Learning Designer, who will customise training and development programmes to suit different employee profiles. HR professionals must be ready to embrace these new skills and opportunities for better career development.
+19\.  Willis Towers Watson’s study noted that almost 90% of HR job roles today will be impacted by technology. Based on IHRP’s estimate of their certified community, 53% of certified HR professionals in Singapore will be affected. The increased availability of technology-enabled solutions and data analytics will elevate the value-add of many HR functions, creating new opportunities. These include the HR data analyst, and the Learning Designer, who will customise training and development programmes to suit different employee profiles. HR professionals must be ready to embrace these new skills and opportunities for better career development.
 
 20\.  In 2017, we launched IHRP Certification to set the benchmark for HR excellence in Singapore. The community is now 2,700 strong and growing. By 2025, we aim to have more than 10,000 HR professionals take up IHRP Certification, or other equivalent certification recognised by IHRP .
 
