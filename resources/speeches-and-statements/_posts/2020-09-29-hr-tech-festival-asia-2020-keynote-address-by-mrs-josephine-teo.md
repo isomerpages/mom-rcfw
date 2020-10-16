@@ -141,7 +141,9 @@ Ladies and gentlemen,<br>
 -   Many shifts have been accelerated, and their impact sharpened.
 -   Each of us has a part to play in embracing the opportunities and challenges that lie ahead, and in navigating the new era of HR and the workplace.
 
-25\.  Thank you all once again for attending this virtual conference. I wish you all a fruitful day ahead.<br>
+25\.  Thank you all once again for attending this virtual conference. I wish you all a fruitful day ahead.
+
+<br>
 
 **Footnote**
 
