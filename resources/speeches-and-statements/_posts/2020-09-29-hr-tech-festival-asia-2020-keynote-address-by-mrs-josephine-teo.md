@@ -146,9 +146,8 @@ Ladies and gentlemen,<br>
 **Footnote**
 
 <footer>
-  <p>1. International Labour Organization (2020). ILO Monitor: COVID-19 and the World of Work. Fifth Edition. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_749399.pdf
-International Labour Organization (2020).</p>
-  <p>2. ILO Monitor: COVID-19 and the World of Work. Fifth Edition. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_749399.pdf</p><br>
+  <p>1. International Labour Organization (2020). ILO Monitor: COVID-19 and the World of Work. Fifth Edition. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_749399.pdf</p>
+  <p>2. International Labour Organization (2020). ILO Monitor: COVID-19 and the World of Work. Fifth Edition. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_749399.pdf</p><br>
 </footer>
 
 
