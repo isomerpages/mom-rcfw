@@ -21,6 +21,6 @@ Day 2 focused on transforming the HR sector to help businesses and workers tackl
 
 Day 3 focused on the impact of technological advances on industries and developing the necessary digital skills through lifelong learning.
 
-Download the programme agenda here. The recorded sessions will be made available soon. 
+<p>Download the programme agenda <a href="/documents/HR-Tech-Festival Asia-ASEAN-Future-of-Work Track-Provisional-Programme.pdf/">here</a>.The recorded sessions will be made available soon.</p>
 
 We thank all participants and speakers who contributed to the success of our ASEAN Future of Work track.
