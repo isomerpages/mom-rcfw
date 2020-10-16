@@ -143,7 +143,7 @@ Ladies and gentlemen,<br>
 
 25\.  Thank you all once again for attending this virtual conference. I wish you all a fruitful day ahead.
 
-<br>
+---
 
 **Footnote**
 
