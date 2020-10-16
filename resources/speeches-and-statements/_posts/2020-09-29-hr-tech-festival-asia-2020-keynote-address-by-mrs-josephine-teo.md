@@ -30,12 +30,14 @@ Ladies and gentlemen,<br>
 
 5\.  Whether we are ready or not the future has arrived. The impact of COVID-19 has been felt all over the world.
 
--   In the first half of this year, as many as ninety-three percent of the world’s workers experienced full or partial workplace closures1.
+-   <p>In the first half of this year, as many as ninety-three percent of the world’s workers experienced full or partial workplace closures<sup>1</sup>.</p>
+
     -   Businesses were forced to adapt their work practices.
     -   This includes the widespread adoption of remote working arrangements. Almost overnight the pace of digitalisation went from first gear to fifth.
 
 -   Lockdown measures and the rapid worsening of economic conditions have also led to heightened unemployment and temporary layoffs.
-    -   In Asia and the Pacific alone, the total loss in working hours for the second quarter of 2020 was equivalent to two-hundred and thirty-five million full-time jobs2.
+
+    -   <p>In Asia and the Pacific alone, the total loss in working hours for the second quarter of 2020 was equivalent to two-hundred and thirty-five million full-time jobs<sup>2</sup>.</p>
     -   Vulnerable workers in informal and low-wage work were among the hardest hit.
 -   As in many countries, workers in Singapore were not spared.
     -   Overall unemployment has risen to two-point eight percent in June, the highest in more than a decade.
@@ -142,7 +144,6 @@ Ladies and gentlemen,<br>
 25\.  Thank you all once again for attending this virtual conference. I wish you all a fruitful day ahead.
 
 **Footnote**
-
 ---
 
 <footer>
