@@ -13,6 +13,7 @@ Distinguished guests,<br>
 Ladies and gentlemen,<br> 
 
 **Opening**
+
 1\.  Good morning.
 2\.  I’m Josephine Teo and I am happy to join you at the opening of this year’s HR Tech Festival Asia.
 3\.  Let me thank HRM Asia for the invitation and for co-organising the “ASEAN Future of Work” track with my Ministry.
