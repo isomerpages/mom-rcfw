@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HR Tech Festival Asia 2020, Keynote Address by Mrs Josephine Teo, Minister for Manpower and Second Minister for Home Affairs"
+title:  "HR Tech Festival Asia 2020, Keynote Address by Mrs. Josephine Teo, Minister for Manpower and Second Minister for Home Affairs"
 date:   2020-09-29
 permalink: /resources/speeches-and-statements/hr-tech-festival-asia-2020-keynote-address-by-mrs-josephine-teo/
 ---
