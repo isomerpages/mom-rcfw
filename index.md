@@ -34,7 +34,7 @@ sections:
         title: Singapore Conference on the Future of Work,<br>29 April 2019
         subtitle: "Embracing Technology; Inclusive Growth"
         description: 
-        button: Click here for the highlights! 
+        button: Click here for the highlights and session recordings! 
         url: /activities/past-activities/fow-conference-2019/
         image: images/fow-conference-panel1.jpg
         alt: ASEAN Labour Ministers at the FoW Conference
