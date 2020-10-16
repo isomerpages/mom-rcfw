@@ -3,7 +3,7 @@ title: HR Tech Festival Asia 2020, 29 Sep - 1 Oct 2020
 permalink: /activities/past-activities/hr-tech-fest-asia-2020-asean-fow-track/
 third_nav_title: Past Activities
 ---
-![Keynote-Address-HR-Tech-Festival-Asia-2020](/images/hr-tech-fest-asia.jpg)
+![Keynote-Address-HR-Tech-Festival-Asia-2020](/images/hr-tech-fest-asia.png)
 
 ### The RCFW was launched at the HR Tech Festival Asia 2020!
 
