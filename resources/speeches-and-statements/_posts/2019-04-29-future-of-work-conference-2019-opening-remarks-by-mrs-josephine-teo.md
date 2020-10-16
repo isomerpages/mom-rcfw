@@ -15,7 +15,7 @@ Brothers and sisters from the Singapore tripartite movement,<br>
 Distinguished Delegates,<br>
 Ladies and Gentlemen,<br>
 
-### Introduction
+**Introduction**
 
 1\. Good morning. On behalf of the tripartite partners in Singapore, welcome to the Conference on the Future of Work, especially to all our overseas delegates.
 
@@ -33,8 +33,7 @@ Ladies and Gentlemen,<br>
 
 5\. Our conference in Singapore hopes to make a small contribution to this important global conversation
 
-
-### ASEAN
+**ASEAN**
 
 6\. The great advantage for ASEAN is that our economies are growing.  If this were not so, it will be harder to look to the future with a sense of hope.
 - With more than 640 million people, ASEAN is today collectively the world’s fifth-largest economy.
@@ -43,8 +42,7 @@ Ladies and Gentlemen,<br>
 
 7\. Even with an overall growth story, we are not without challenges. 
 
-
-### Challenges
+**Challenges**
 
 8\. First, demographic shifts.
 
@@ -94,7 +92,7 @@ Ladies and Gentlemen,<br>
 - In fact, our approach towards the future of work is broadly aligned with the recommendations.
 - Let me share briefly how Singapore thinks about it.
 
-### Singapore’s approach: Tripartism is key
+**Singapore’s approach: Tripartism is key**
 
 20\. Since independence, Singapore has recognised the critical need to develop our people to their fullest potential.
 - This is aligned with ILO’s human-centred agenda.
@@ -173,7 +171,7 @@ Ladies and Gentlemen,<br>
 - Because skills will be the engine that propel people upwards and laterally
 - To achieve greater career mobility at all stages of their lives.
 
-### Announcement and closing remarks
+**Announcement and closing remarks**
 
 37\. In a few days, we will mark International Labour Day. To better serve all of our workers, let us face our challenges with a balance of humility and confidence
 - Humility, because we will never have all the answers to all the questions about the future
