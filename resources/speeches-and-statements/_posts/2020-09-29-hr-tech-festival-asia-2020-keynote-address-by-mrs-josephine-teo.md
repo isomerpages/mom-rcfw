@@ -142,7 +142,9 @@ Ladies and gentlemen,<br>
 25\.  Thank you all once again for attending this virtual conference. I wish you all a fruitful day ahead.
 
 **Footnote**
+
 ---
+
 <footer>
   <p>1. International Labour Organization (2020). ILO Monitor: COVID-19 and the World of Work. Fifth Edition. https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/briefingnote/wcms_749399.pdf
 International Labour Organization (2020).</p>
