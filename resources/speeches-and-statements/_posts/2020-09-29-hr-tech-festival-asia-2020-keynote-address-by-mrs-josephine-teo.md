@@ -15,8 +15,11 @@ Ladies and gentlemen,<br>
 **Opening**
 
 1\.  Good morning.
+
 2\.  I’m Josephine Teo and I am happy to join you at the opening of this year’s HR Tech Festival Asia.
+
 3\.  Let me thank HRM Asia for the invitation and for co-organising the “ASEAN Future of Work” track with my Ministry.
+
 4\.  The theme of this year’s conference is aptly titled “Navigating the New Era of HR and the Workplace”.
 
 -   Prior to  COVID-19, the world of work was already transforming due to technological advances and shifts in global supply chains, among other drivers of change.
