@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HR Tech Festival Asia 2020, Address by Mr Zaqy Mohamad, Senior Minister of State, Ministry of Defence and Ministry of Manpower"
+title:  "HR Tech Festival Asia 2020, Address by Mr. Zaqy Mohamad, Senior Minister of State, Ministry of Defence and Ministry of Manpower"
 date:   2020-09-30
 permalink: /resources/speeches-and-statements/hr-tech-festival-asia-2020-address-by-mr-zaqy-mohamad/
 ---
