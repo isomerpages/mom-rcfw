@@ -9,6 +9,6 @@ Amidst much uncertainty and dampened economic activity, businesses worldwide are
 
 This will be a good opportunity to discuss perspectives and developments towards the advancement of WSH in our region post-COVID. The e-Conferene will present ideas and rich experiences from renowned speakers on how WSH can help businesses regain their footing and build resilience. Business owners will gain valuable insights into how WSH can effectively transform their business operations. Employees will also benefit from a sustainable culture of care, trust and risk prevention in the workplace.
 
-<p>To view the e-Conference programme and register your interest, click <a href="https://singaporewshconference.sg/programme/">here</a>.</p>
+<p>To view the e-Conference programme and register your interest, click <a href="https://singaporewshconference.sg/">here</a>.</p>
 
 #### We hope to see you at the Singapore WSH e-Conference 2020 on 17 and 18 November 2020. 
