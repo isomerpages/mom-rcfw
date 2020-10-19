@@ -11,4 +11,4 @@ This will be a good opportunity to discuss perspectives and developments towards
 
 <p>To view the e-Conference programme and register your interest, click <a href="https://singaporewshconference.sg/programme/">here</a>.</p>
 
-#### We hope to see you at the Singapore WSH e-Conference 2020 on 17 and 18 November 2020. Save the date!  
+#### We hope to see you at the Singapore WSH e-Conference 2020 on 17 and 18 November 2020. 
