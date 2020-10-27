@@ -11,7 +11,7 @@ third_nav_title: Past Activities
 
 The pandemic has accelerated many Future of Work trends and drivers of change in the workforce and workplace. To help ASEAN countries address challenges, such as the digital transformation of industries and to tap on opportunities with the eventual recovery, the Singapore Ministry of Manpower launched the RCFW during the conference, as part of its ASEAN Future of Work track which was co-organised with HRM Asia.
 
-Over 1,700 regional participants tuned in to the online presentations and panel discussions under the ASEAN Future of Work track, to hear from the international experts, senior government representatives from the region, tripartite partners and thought leaders who shared on:
+Over 1,700 regional participants from government, employers’ and workers’ organisations, logged in to the online presentations and panel discussions, to hear from international experts, senior government representatives, tripartite leaders and thought leaders who shared on:
 - challenges and best practices to mitigate the impact of COVID-19 on the labour market; as well as
 - solutions to support business transformation and human capital development in the Future of Work.
 
