@@ -46,6 +46,8 @@ This session discussed the forces shaping a post-COVID future of work, and the d
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W-PUUZhsp3k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+---
+
 6\. **Panel Discussion: “Employment Facilitation Post-COVID, for a Better Recovery”**
 
 -   Moderator: Ms Aparna Bharadwaj, Managing Director and Partner, Boston Consulting Group
