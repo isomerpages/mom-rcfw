@@ -20,7 +20,7 @@ Willis Towers Watson shared the findings from the study commissioned by the Inst
 
 ---
 
-3\. **"Panel Discussion: "Developing the HR Profession of Tomorrow – How HR will Support Business Transformation"
+3\. **Panel Discussion: "Developing the HR Profession of Tomorrow – How HR will Support Business Transformation"**
 
 -   Moderator: Ms Renata Janini Dohmen, Global Head of Early Talent Attraction, SAP, Institute for Human Resource Professionals Master Professional
 
