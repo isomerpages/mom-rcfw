@@ -22,6 +22,8 @@ permalink: /hr-tech-fest-asia-2020-asean-fow-track-day1/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1i1ZqyMaeZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+---
+
 5\. Panel Discussion: “Building a Better Post-COVID Future of Work”.  
 
 Moderator: Ms Diaan-Yi Lin, Senior Partner, McKinsey & Company. 
