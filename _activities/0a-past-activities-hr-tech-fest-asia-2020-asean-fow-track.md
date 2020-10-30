@@ -9,7 +9,7 @@ third_nav_title: Past Activities
 
 “_COVID-19 has been a forceful reminder of the urgent need for Governments, businesses and workers to come together to prepare for the Future of Work_,” said Minister for Manpower Mrs. Josephine Teo during her Keynote Address at the virtual HR Tech Festival Asia on 29 September.
 
-The pandemic has accelerated many Future of Work trends and drivers of change in the workforce and workplace. To help ASEAN countries address challenges, such as the digital transformation of industries and to tap on opportunities with the eventual recovery, the Singapore Ministry of Manpower launched the RCFW during the conference, as part of its ASEAN Future of Work track which was co-organised with HRM Asia.
+The pandemic has accelerated many Future of Work trends and drivers of change in the workforce and workplace. To help ASEAN countries address challenges, such as the digital transformation of industries and to tap on opportunities with the eventual recovery, the Singapore Ministry of Manpower launched the RCFW during the conference, as part of its **ASEAN Future of Work track** which was co-organised with HRM Asia.
 
 Over 1,700 regional participants from government, employers’ and workers’ organisations, logged in to the online presentations and panel discussions, to hear from international experts, senior government representatives, tripartite leaders and thought leaders who shared on:
 - challenges and best practices to mitigate the impact of COVID-19 on the labour market; as well as
