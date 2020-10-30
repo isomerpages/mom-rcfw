@@ -9,7 +9,7 @@ permalink: /hr-tech-fest-asia-2020-asean-fow-track-day2/
 
 ---
 
-2\. **"The Impact of Wider use of Technology Across the Singapore HR Sector"**.
+2\. **"The Impact of Wider use of Technology Across the Singapore HR Sector"**
 
 Willis Towers Watson shared the findings from the study commissioned by the Institute for Human Resource Professionals and the Singapore Ministry of Manpower, on how HR jobs and functions will evolve in the next 3 to 5 years due to technology. The findings were presented by:
 - Mr Shai Ganu, Managing Director, Global Practice Leader – Executive Compensation and Talent & Rewards Business Leader, ASEAN and South Asia 
