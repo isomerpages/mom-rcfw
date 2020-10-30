@@ -33,7 +33,8 @@ permalink: /hr-tech-fest-asia-2020-asean-fow-track-day1/
 5\. **Panel Discussion: “Building a Better Post-COVID Future of Work”**  
 
 -   Moderator: Ms Diaan-Yi Lin, Senior Partner, McKinsey & Company
-<br>
+
+
 -   Panellists:
     -   Mr Graeme Buckley, Director, DWT/CO-Bangkok, International Labour Organization
     -   Mr Aubeck Kam, Permanent Secretary, Ministry of Manpower, Singapore
@@ -51,7 +52,8 @@ This session discussed the forces shaping a post-COVID future of work, and the d
 6\. **Panel Discussion: “Employment Facilitation Post-COVID, for a Better Recovery”**
 
 -   Moderator: Ms Aparna Bharadwaj, Managing Director and Partner, Boston Consulting Group
-<br>
+
+
 -   Panellists:
     -   Mr Tan Choon Shian, Chief Executive, Workforce Singapore
     -   Mr Gilbert Tan, Chief Executive Officer, Employment and Employability Institute
