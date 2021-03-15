@@ -42,11 +42,12 @@ Ladies and gentlemen,<br>
 -   As in many countries, workers in Singapore were not spared.
     -   Overall unemployment has risen to two-point eight percent in June, the highest in more than a decade.
     -   In the second quarter, the proportion of retrenched residents who were able to secure a new job within six months also fell to an all-time low of fifty-eight percent.
--   The outlook remains uncertain
+-   The outlook remains uncertain.
 
 **Singapore Remains Committed to Addressing the Future of Work**
 
 6\.  Yet in managing this crisis, we also have the opportunity to prepare for an eventual economic recovery and for the Future of Work.
+
 7\.  We can do this by
 
 -   Helping workers stay employed and employable;
@@ -54,6 +55,7 @@ Ladies and gentlemen,<br>
 -   Transforming our economy and businesses to seize opportunities.
 
 8\.  These continue to be priorities for Singapore, even as we focus on battling the threat of COVID-19 due to the public health crisis.
+
 9\.  To support businesses and protect the livelihoods of our workers, the Singapore Government has put in place extraordinary budget measures.
 
 -   With the latest round of support measures announced by our Deputy Prime Minister Mr Heng Swee Keat, the total budgetary support is close to one-hundred billion dollars.
@@ -76,6 +78,7 @@ Ladies and gentlemen,<br>
     -   adapting HR strategies to enable workers to fulfil their potential.
 
 13\.  Singapore will do our part to support the ASEAN labour community to answer the  ILO’s call to “Work for a Brighter Future” for all our people. In particular, we see value in fostering social dialogue and conversations about how to prepare our nations for the Future of Work.
+
 14\.  During the Singapore Conference on the Future of Work held last year, I had announced Singapore’s intention to do so through the setting up of a regional initiative.
 
 -   Both the ILO and ASEAN Labour Ministers were supportive of our plans.
@@ -97,12 +100,14 @@ Ladies and gentlemen,<br>
     -   Governments, employers’ and workers’ organisations must work together to ensure that business and workers can continue to thrive during this pandemic and beyond, especially those in lower-end and more precarious jobs.
 
 17\.  Therefore, I am happy to launch the Regional Centre for the Future of Work, an initiative to help each of our societies in ASEAN move forward as one.
+
 18\.  Last year, the ASEAN Labour Ministers had shown our collective resolve to prepare our businesses and workers for the Future of Work,
 
 -   by coming together in Singapore to adopt the ASEAN Joint Statement on the Future of Work – the first regional statement of its kind.
 -   The Regional Centre will support ASEAN to put this Statement into action.
 
 19\.  It will institutionalise our region’s collective effort to take advantage of emerging opportunities and tackle challenges, especially during this global pandemic.
+
 20\.  To do so, the Centre will bring together international experts and regional tripartite stakeholders to
 
 -   foster social dialogue,

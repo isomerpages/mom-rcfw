@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Regional Center for the Future of Work
+title: Regional Centre for the Future of Work
 description: Brief site description here
 image: /images/rcfw-logo-final.png
 permalink: /
