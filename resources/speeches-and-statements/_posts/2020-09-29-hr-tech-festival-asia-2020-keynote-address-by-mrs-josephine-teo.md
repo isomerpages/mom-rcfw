@@ -42,7 +42,7 @@ Ladies and gentlemen,<br>
 -   As in many countries, workers in Singapore were not spared.
     -   Overall unemployment has risen to two-point eight percent in June, the highest in more than a decade.
     -   In the second quarter, the proportion of retrenched residents who were able to secure a new job within six months also fell to an all-time low of fifty-eight percent.
--   The outlook remains uncertain
+-   The outlook remains uncertain.
 
 **Singapore Remains Committed to Addressing the Future of Work**
 
