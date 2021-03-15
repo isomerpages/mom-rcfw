@@ -1,5 +1,5 @@
 ---
-title: HR Tech Festival Asia 2020, 29 Sep - 1 Oct 2020
+title: ASEAN Future of Work Conference Track, 29 Sep - 1 Oct 2020
 permalink: /activities/past-activities/hr-tech-fest-asia-2020-asean-fow-track/
 third_nav_title: Past Activities
 ---
