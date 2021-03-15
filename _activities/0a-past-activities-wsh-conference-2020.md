@@ -5,10 +5,12 @@ third_nav_title: Past Activities
 ---
 ### Theme: Enabling Business and Empowering Workforce in the COVID-19 World
 
-Amidst much uncertainty and dampened economic activity, businesses worldwide are still battling the economic fallout from the COVID-19 pandemic. Coupled with digitalisation and transformation challenges, the journey to recovery is set to be protracted. To promote safe working conditions for all workers and instil a preventive culture that safeguards workers' safety and health, the RCFW is working with the Workplace Safety and Health Council (WSHC) to organise this year's Singapore Workplace Safety and Health e-Conference 2020. 
+Amidst much uncertainty and dampened economic activity, businesses worldwide are still battling the economic fallout from the COVID-19 pandemic. Coupled with digitalisation and transformation challenges, the journey to recovery is set to be protracted. To promote safe working conditions for all workers and instil a preventive culture that safeguards workers' safety and health, the RCFW partnered the Workplace Safety and Health Council (WSHC) to organise the Singapore Workplace Safety and Health e-Conference 2020. 
 
-This will be a good opportunity to discuss perspectives and developments towards the advancement of WSH in our region post-COVID. The e-Conferene will present ideas and rich experiences from renowned speakers on how WSH can help businesses regain their footing and build resilience. Business owners will gain valuable insights into how WSH can effectively transform their business operations. Employees will also benefit from a sustainable culture of care, trust and risk prevention in the workplace.
+The e-Conferene presented ideas and rich experiences from renowned speakers on how WSH could help businesses regain their footing and build resilience. Business owners also gained valuable insights on how WSH could effectively transform their business operations. 
 
-<p>To view the e-Conference programme and register your interest, click <a href="https://singaporewshconference.sg/">here</a>.</p>
+Over 1,800 participants from Singapore and across the Asia Pacific, including Japan, South Korea, and Australia attended the 2-day conference. 
 
-#### We hope to see you at the Singapore WSH e-Conference 2020 on 17 and 18 November 2020. 
+<p>To view the e-Conference summmary, click <a href="https://www.tal.sg/wshc/Events/Conference/2020/The-Singapore-WSH-Conference-2020#/">here</a>.</p>
+
+We thank all participants and speakers who contributed to the success of the Singapore Workplace Safety and Health e-Conference 2020. 
