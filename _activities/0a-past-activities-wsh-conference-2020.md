@@ -13,4 +13,4 @@ Over 1,800 participants from Singapore and across the Asia Pacific, including Ja
 
 <p>To view the e-Conference summmary, click <a href="https://www.tal.sg/wshc/Events/Conference/2020/The-Singapore-WSH-Conference-2020#/">here</a>.</p>
 
-We thank all participants and speakers who contributed to the success of the Singapore Workplace Safety and Health e-Conference 2020. 
+We thank all participants and speakers who contributed to the success of the Singapore Workplace Safety and Health Conference 2020. 
