@@ -1,6 +1,6 @@
 ---
 title: Leaders in Tripartism Programme 
-permalink: /activities/upcoming-activities/ltp-conference/
+permalink: /activities/upcoming-activities/ltp-workshop/
 third_nav_title: Upcoming Activities
 ---
 This workshop aims to foster social dialogue on addressing common Future of Work challenges. 
