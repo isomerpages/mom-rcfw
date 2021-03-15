@@ -1,7 +1,7 @@
 ---
 title: Singapore Workplace Safety and Health (WSH) e-Conference 2020, 17 - 18 Nov 2020 
 permalink: /activities/past-activities/wsh-conference-2020/
-third_nav_title: Upcoming Activities
+third_nav_title: Past Activities
 ---
 ### Theme: Enabling Business and Empowering Workforce in the COVID-19 World
 
