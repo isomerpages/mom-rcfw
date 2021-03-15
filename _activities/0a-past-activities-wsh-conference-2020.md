@@ -5,9 +5,7 @@ third_nav_title: Past Activities
 ---
 ### Theme: Enabling Business and Empowering Workforce in the COVID-19 World
 
-<div class="fb-video" data-href="https://fb.watch/4eK2ozqc32/" data-width="560" data-show-text="false"><blockquote cite="https://developers.facebook.com/WSHCouncil/videos/387390589161348/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/WSHCouncil/videos/387390589161348/">Singapore WSH Conference 2020 Highlights Video</a><p>Missed the action at the sixth edition of The Singapore Workplace Safety and Health (WSH) Conference which took place on 17-18 November 2020? The virtual Conference, comprising a total of 4 plenary sessions and 6 symposiums, had over 30 distinguished local and overseas speakers sharing their insights and experience on topics such as sustainable business culture, impact of technology in the WSH ecosystem, creation of a healthy workforce, and the future of work. Watch the highlights of the Conference here.  
-
-#wsh #conference</p>Posted by <a href="https://www.facebook.com/WSHCouncil/">Workplace Safety and Health Council</a> on Thursday, December 17, 2020</blockquote></div>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FWSHCouncil%2Fvideos%2F387390589161348%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 Amidst much uncertainty and dampened economic activity, businesses worldwide are still battling the economic fallout from the COVID-19 pandemic. Coupled with digitalisation and transformation challenges, the journey to recovery is set to be protracted. To promote safe working conditions for all workers and instil a preventive culture that safeguards workers' safety and health, the RCFW partnered the Workplace Safety and Health Council (WSHC) to organise the Singapore Workplace Safety and Health Conference 2020. 
 
