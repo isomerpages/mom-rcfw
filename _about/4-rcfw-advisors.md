@@ -14,7 +14,7 @@ The advisors will:
 
 ### Our advisors are: 
 
-<img src="/images/rcfw-advisors/5-rcfw-advisors.png" style="padding:10px">
+<img src="/images/rcfw-advisors/5-rcfw-advisors-v2.png" style="padding:10px">
 
 Stay tuned to find out who the other advisors are!
 
