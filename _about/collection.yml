@@ -1,6 +1,6 @@
 collections:
   about:
-    output: false
+    output: true
     order:
       - overview.md
       - vision-and-mission.md
