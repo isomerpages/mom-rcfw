@@ -14,5 +14,6 @@ At the end of the Conference, AMS adopted a set of 9 recommendations. These focu
 2. Managing mental well-being of our workforce, and
 3. Deepening collaboration among AMS together with regional tripartite partners and international organisations.
 
+[9th ALIC Programme and Agenda](/files/9th%20ALIC%20Concept%20Note%20and%20Agenda.pdf)
 
-[Concluded Recommendations for the 9th ALIC](/files/Concluded%20Recommendations%20for%209th%20ALIC.pdf)
+[9th ALIC Concluded Recommendations](/files/Concluded%20Recommendations%20for%209th%20ALIC.pdf)
