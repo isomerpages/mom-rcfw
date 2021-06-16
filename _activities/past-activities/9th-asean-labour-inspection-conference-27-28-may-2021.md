@@ -13,3 +13,6 @@ At the end of the Conference, AMS adopted a set of 9 recommendations. These focu
 1. Strengthening the labour inspection system for better workplace pandemic preparedness;
 2. Managing mental well-being of our workforce, and
 3. Deepening collaboration among AMS together with regional tripartite partners and international organisations.
+
+
+[Concluded Recommendations for the 9th ALIC](/files/Concluded%20Recommendations%20for%209th%20ALIC.pdf)
