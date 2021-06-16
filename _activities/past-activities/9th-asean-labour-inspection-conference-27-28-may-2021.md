@@ -7,7 +7,7 @@ third_nav_title: Past Activities
 
 In collaboration with the Occupational Safety and Health Division in the Ministry of Manpower, Singapore, we successfully organised the 9th ASEAN Labour Inspection Conference (9th ALIC) virtually from 27 to 28 May 2021.
 
-In addition to over 100 participants from the ASEAN Member States (AMS), it was attended by AMS’s nominated employers’ and workers’ organisations, the ASEAN Trade Union Council (ATUC), the ASEAN Confederation of Employers (ACE), the ILO, World Health Organisation (WHO), and International Association of Labour Inspection (IALI).
+In addition to over 100 participants from the ASEAN Member States (AMS), the Conference was attended by AMS’s nominated employers’ and workers’ organisations, the ASEAN Trade Union Council (ATUC), the ASEAN Confederation of Employers (ACE), the ILO, World Health Organisation (WHO), and International Association of Labour Inspection (IALI).
 
 Adopting the theme “Strengthening Labour Inspection Capability in the Post COVID-19 Era”, the Conference was opened by SMS Zaqy Mohamad. Over the two-day period, participants discussed strategies and measures to strengthen labour inspections against the backdrop of the changing world of work, exacerbated by the current COVID-19 pandemic. The Conference also included a segment focusing on tripartite discussions.
 
