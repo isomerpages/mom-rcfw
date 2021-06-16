@@ -15,7 +15,7 @@ Over 1,700 regional participants from government, employers’ and workers’ or
 - challenges and best practices to mitigate the impact of COVID-19 on the labour market; as well as
 - solutions to support business transformation and human capital development in the Future of Work.
 
-Download the programme agenda <a href="/documents/HR-Tech-Festival Asia-ASEAN-Future-of-Work Track-Provisional-Programme.pdf/">here</a>.
+Download the programme agenda <a href="/files/HR-Tech-Festival Asia-ASEAN-Future-of-Work Track-Provisional-Programme.pdf/">here</a>.
 
 ---
 
