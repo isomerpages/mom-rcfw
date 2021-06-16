@@ -7,7 +7,7 @@ In collaboration with the Occupational Safety and Health Division in the Ministr
 
 Adopting the theme “Strengthening Labour Inspection Capability in the Post COVID-19 Era”, the Conference discussed strategies and measures to strengthen labour inspections against the backdrop of the changing world of work, exacerbated by the current COVID-19 pandemic. 
 
-In addition to participation by all ASEAN Member States (AMS), the 9th ALIC was attended by AMS’s nominated employers’ and workers’ organisations, the ASEAN Trade Union Council (ATUC), the ASEAN Confederation of Employers (ACE), the ILO, World Health Organisation (WHO), and International Association of Labour Inspection (IALI). This was the first time that regional tripartite partners turned out strongly for the conference. 
+In addition to participation by all ASEAN Member States (AMS), the 9th ALIC was attended by AMS’s nominated employers’ and workers’ organisations, the ASEAN Trade Union Council (ATUC), the ASEAN Confederation of Employers (ACE), the ILO, World Health Organisation (WHO), and International Association of Labour Inspection (IALI). 
 
 At the end of the Conference, AMS adopted a set of 9 recommendations. These focused on three areas: 
 1. Strengthening the labour inspection system for better workplace pandemic preparedness;
