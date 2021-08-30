@@ -11,4 +11,4 @@ third_nav_title: Upcoming Activities
 
 [Conference Programme - click here](/files/ASEAN%20Future%20of%20Work%20Conference%202021%20Provisional%20Programme.pdf)
 
-Register online via this link by 16 Sep 2021! 
+Register online via this [link](https://hubs.li/H0VHdVF0 ) by 16 Sep 2021! 
