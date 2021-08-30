@@ -19,8 +19,8 @@ sections:
         - title: Upcoming Activities
           description: null
           url: /activities/upcoming-activities/fow-conf-2021/
-        - title: Tell us what you think
-          description: We value your feedback on the RCFW.
+        - title: Explore Collaborations
+          description: "Get in touch with us! "
           url: mailto:mom_futureofwork.gov.sg
   - infopic:
       title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020
