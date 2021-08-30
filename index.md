@@ -18,7 +18,7 @@ sections:
           url: /about/rcfw-advisors/
         - title: Upcoming Activities
           description: null
-          url: /activities/upcoming-activities/stay-tuned/
+          url: /activities/upcoming-activities/fow-conf-2021/
         - title: Tell us what you think
           description: We value your feedback on the RCFW.
           url: mailto:mom_futureofwork.gov.sg
