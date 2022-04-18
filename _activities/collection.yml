@@ -2,7 +2,6 @@ collections:
   activities:
     output: true
     order:
-      - 2019 Activities/.keep
       - Upcoming Activities/.keep
       - Upcoming Activities/ASEAN Future of Work Conference 2022, 12 May 2022.md
       - 2021 Activities/.keep
@@ -16,3 +15,4 @@ collections:
       - Past Activities/ASEAN Future of Work Conference,  29 Sep to 1 Oct 2020.md
       - Past Activities/Singapore Conference on the Future of Work, 29 April
         2019.md
+      - 2019 Activities/.keep
