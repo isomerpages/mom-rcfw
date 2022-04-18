@@ -2,6 +2,7 @@ collections:
   activities:
     output: true
     order:
+      - Upcoming Activities/.keep
       - past-activities/ASEAN Future of Work Conference, 23 Sep 2021.md
       - past-activities/.keep
       - past-activities/9th ASEAN Labour Inspection Conference, 27 to 28 May
