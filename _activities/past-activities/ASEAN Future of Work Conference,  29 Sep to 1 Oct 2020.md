@@ -4,8 +4,6 @@ permalink: /activities/past-activities/asean-fow-2020/
 third_nav_title: Past Activities
 description: ""
 ---
-
-
 ![Keynote-Address-HR-Tech-Festival-Asia-2020](/images/min-josephine-teo-hr-fest-keynote-min.png)
 
 ### The RCFW was launched at the HR Tech Festival Asia 2020!
@@ -33,4 +31,4 @@ Day 3 focused on the impact of technological advances on industries and developi
 
 
 
-We thank all participants and speakers who contributed to the success of our ASEAN Future of Work track.
+We thank all participants and speakers who contributed to the success of our first ASEAN Future of Work Conference.
