@@ -4,6 +4,8 @@ permalink: /activities/upcoming-activities/asean-fow-2021/
 third_nav_title: Past Activities
 description: ""
 ---
+![](/images/asean%20fow%202021%20conference%20banner.png)
+
 ### We held our ASEAN Future of Work Conference as part of the popular HR Tech Festival Asia Online for the second time. 
 
 In view of the International Labour Organization’s global call to orient a human-centred recovery that is inclusive, sustainable and resilient, senior government, union and employer representatives shared insights on fostering an inclusive future world of work. They also discussed the challenges and opportunities for different stakeholders to:
