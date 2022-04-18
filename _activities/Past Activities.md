@@ -9,6 +9,6 @@ We are proud to have organised the following activities in the last few years:
 
 |  | Activity Name | Event Summary |
 | -------- | -------- | -------- |
-| 2021     | ASEAN Future of Work Conference, 23 Sep 2021 | [here](/activities/upcoming-activities/asean-fow-2021/)     |
-
-
+| 2021     | 2nd ASEAN Future of Work Conference | [Here](/activities/upcoming-activities/asean-fow-2021/) |
+|  | 9th ASEAN Labour Inspection Conference | [Here](/activities/past-activities/9th-alic/) |
+| -------- | -------- | -------- |
