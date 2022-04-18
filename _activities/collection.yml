@@ -2,11 +2,10 @@ collections:
   activities:
     output: true
     order:
-      - ASEAN Future of Work Conference, 23 Sep 2021.md
       - Upcoming Activities/.keep
       - Upcoming Activities/ASEAN Future of Work Conference 2022, 12 May 2022.md
-      - 2021 Activities/Past Activities.md
       - 2021 Activities/.keep
+      - 2021 Activities/Past Activities.md
       - 2021 Activities/9th ASEAN Labour Inspection Conference, 27 to 28 May
         2021.md
       - 2021 Activities/Inaugural RCFW Advisors' Meeting, 19 March 2021.md
@@ -14,6 +13,7 @@ collections:
       - 2020 Activities/Singapore Workplace Safety and Health (WSH) Conference
         2020, 17 to 18 Nov 2020.md
       - 2020 Activities/ASEAN Future of Work Conference,  29 Sep to 1 Oct 2020.md
+      - 2019 Activities/.keep
       - 2019 Activities/Singapore Conference on the Future of Work, 29 April
         2019.md
-      - 2019 Activities/.keep
+      - ASEAN Future of Work Conference, 23 Sep 2021.md
