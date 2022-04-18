@@ -1,5 +1,5 @@
 collections:
-  activities-archives:
+  event-archives:
     output: true
     order:
       - 2021 Activities/.keep
