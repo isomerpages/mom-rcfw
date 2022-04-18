@@ -1,5 +1,5 @@
 collections:
-  past-activities-archives:
+  activities-archives:
     output: true
     order:
       - 2021 Activities/ASEAN Future of Work Conference, 23 Sep 2021.md
