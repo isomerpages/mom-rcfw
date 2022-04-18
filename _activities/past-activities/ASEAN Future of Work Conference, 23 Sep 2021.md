@@ -15,6 +15,15 @@ In view of the International Labour Organization’s global call to orient a hum
 
 [Conference Programme - Click Here](/files/2021%20ASEAN%20FOW%20Conference%20-%20Provisional%20Programme%20(final).pdf)
 
+**You can now re-watch the Conference sessions via the hyper-linked session titles. **
+
+---
+
+
+1. Opening Remarks by Dato Lim Jock Hoi, Secretary-General of ASEAN 
+
+2. 
+
 
 
 We thank the close to 1,900 regional participants and all our speakers for engaging in the lively discussions.
