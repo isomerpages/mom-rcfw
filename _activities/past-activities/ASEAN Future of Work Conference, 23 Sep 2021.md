@@ -11,6 +11,6 @@ In view of the International Labour Organization’s global call to orient a hum
 2. make lifelong learning work for all and 
 3. support mental well-being and work-life harmony. 
 
-[Conference programme - click here](/files/ASEAN%20Future%20of%20Work%20Conference%202021%20Provisional%20Programme.pdf)
+[Conference Programme - Click Here](/files/2021%20ASEAN%20FOW%20Conference%20-%20Provisional%20Programme%20(final).pdf)
 
-We thank the close to 1,900 regional participants and all our speakers for engaging in the lively discussions. 
+We thank the close to 1,900 regional participants and all our speakers for engaging in the lively discussions.
