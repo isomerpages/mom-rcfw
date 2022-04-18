@@ -13,4 +13,4 @@ In view of the International Labour Organization’s global call to orient a hum
 
 [Conference programme - click here](/files/ASEAN%20Future%20of%20Work%20Conference%202021%20Provisional%20Programme.pdf)
 
-We thank the close to 1,900 participants and all our speakers who contributed to the success of our 2021 ASEAN Future of Work Conference.
+We thank the close to 1,900 regional participants and all our speakers for engaging in the lively discussions. 
