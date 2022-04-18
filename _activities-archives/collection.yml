@@ -2,10 +2,10 @@ collections:
   activities-archives:
     output: true
     order:
-      - 2021 Activities/Inaugural RCFW Advisors' Meeting, 19 March 2021.md
+      - 2021 Activities/.keep
+      - 2021 Activities/ASEAN Future of Work Conference, 23 Sep 2021.md
       - 2021 Activities/9th ASEAN Labour Inspection Conference, 27 to 28 May
         2021.md
-      - 2021 Activities/ASEAN Future of Work Conference, 23 Sep 2021.md
-      - 2021 Activities/.keep
+      - 2021 Activities/Inaugural RCFW Advisors' Meeting, 19 March 2021.md
       - 2020 Activities/.keep
       - 2019 Activities/.keep
