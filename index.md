@@ -7,7 +7,6 @@ permalink: /
 notification: null
 sections:
   - hero:
-      title: RCFW Launched!
       subtitle: Regional Centre for the Future of Work
       background: /images/fow-conference-alm-resize.jpg
       button: Learn More
@@ -21,7 +20,7 @@ sections:
           url: /activities/upcoming-activities/fow-conf-2021/
         - title: Explore Collaborations
           description: "Get in touch with us! "
-          url: mailto:mom_futureofwork.gov.sg
+          url: mailto:mom_futureofwork@mom.gov.sg
   - infopic:
       title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020
       subtitle: ASEAN Future of Work track
