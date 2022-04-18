@@ -6,5 +6,4 @@ third_nav_title: Upcoming Activities
 ---
 ![](/images/asean%20fow%202022%20conference%20banner.png)
 
-### Have you signed up for our upcoming ASEAN Future of Work Conference? 
-
+### Have you signed up for our upcoming ASEAN Future of Work Conference?
