@@ -21,6 +21,7 @@ sections:
         - title: Explore Collaborations
           description: "Get in touch with us! "
           url: mailto:mom_futureofwork@mom.gov.sg
+      title: RCFW
   - infopic:
       title: HR Tech Festival Asia<br>29 Sep - 1 Oct 2020
       subtitle: ASEAN Future of Work track
