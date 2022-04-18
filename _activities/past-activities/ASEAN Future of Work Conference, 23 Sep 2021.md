@@ -25,5 +25,16 @@ Speaker: Dato Lim Jock Hoi, Secretary-General of ASEAN
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NN4I8nWIFFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Panel Discussion: Blessing or Burden? Harnessing the Potential of Hybrid Work for a More Inclusive Future of Work 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rTVkUAfYTo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Panel Discussion: Fostering Inclusive Workplaces that Support Mental Well-being and Work-life Harmony 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nw3qCH-GdmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 We thank the close to 1,900 regional participants and all our speakers for engaging in the lively discussions.
