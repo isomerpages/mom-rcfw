@@ -9,6 +9,6 @@ We are proud to have organised the following activities in the last few years:
 
 |  | Activity Name | Event Summary |
 | -------- | -------- | -------- |
-| 2021     | 2nd ASEAN Future of Work Conference | [Here](/activities/upcoming-activities/asean-fow-2021/) |
-|  | 9th ASEAN Labour Inspection Conference | [Here](/activities/past-activities/9th-alic/) |
-|  | Inagural RCFW Advisors' Meeting | [Here](/activities/past-activities/inaugural-advisors-meeting/) |
+| 2021     | 2nd ASEAN Future of Work Conference | [Here](/event-archives/asean-fow-2021/) |
+|  | 9th ASEAN Labour Inspection Conference |[Here](/event-archives/9th-alic/) |
+|  | Inagural RCFW Advisors' Meeting | [Here](/event-archives/inaugural-advisors-meeting/) |
