@@ -2,4 +2,5 @@ collections:
   past-activities-archives:
     output: true
     order:
+      - 2020 Activities/.keep
       - 2021 Activities/.keep
