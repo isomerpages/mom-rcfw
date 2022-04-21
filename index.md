@@ -26,14 +26,14 @@ sections:
       title: ASEAN Future of Work Conference 2022
       subtitle: virtual
       description: 12 May 2022
-      button: "Find out more "
+      button: Find out more
       url: /activities/Upcoming-Activities/asean-fow-2022
       alt: DPM Heng Swee Keat_ASEAN FOW22
       image: /images/ASEAN FOW Conference 2022/DPM FOW 2022.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Singapore Conference on the Future of Work
+      subtitle: 29 April 2019
+      button: Click here for the event highlights
+      url: /event-archives/fow-conference-2019/
+      image: /images/fow-conference-2019/panel1.jpg
 ---
