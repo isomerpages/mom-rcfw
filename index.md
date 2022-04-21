@@ -28,5 +28,6 @@ sections:
       description: 12 May 2022
       button: "Find out more "
       url: /activities/Upcoming-Activities/asean-fow-2022
-      alt: Image alt text
+      alt: DPM Heng Swee Keat_ASEAN FOW22
+      image: /images/ASEAN FOW Conference 2022/DPM FOW 2022.png
 ---
