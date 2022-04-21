@@ -27,7 +27,7 @@ To watch the **video recordings** of the sessions, please click the session titl
 ### Panel Discussions 
 Tripartite speakers from the region, Commissioners from the ILO’s Global Commission of the Future of Work and industry leaders shared insights and engaged in in-depth discussions with the participants. 
 
-| <a href="\images\fow-conference-2019\panel1.jpg"><img src="\images\fow-conference-2019\panel1.jpg" style="width:250px;" /></a> | <a href="\images\fow-conference-2019\panel2.jpeg"><img src="\images\fow-conference-2019\panel2.jpeg" style="width:250px;" /></a> | <a href="\images\images\fow-conference-2019\panel3.jpg"><img src="\images\fow-conference-2019\panel3.jpg" style="width:250px;" /></a> |
+| <a href="\images\Fow%20Conference%202019\panel1.jpg"><img src="\images\fow-conference-2019\panel1.jpg" style="width:250px;" /></a> | <a href="\images\Fow%20Conference%202019\panel2.jpeg"><img src="\images\fow-conference-2019\panel2.jpeg" style="width:250px;" /></a> | <a href="\images\Fow%20Conference%202019\panel3.jpg"><img src="\images\Fow%20Conference%202019\panel3.jpg" style="width:250px;" /></a> |
 
 #### Panel 1: [Embracing Technology and Promoting Human-centric Agenda at the Workplace](https://www.youtube.com/watch?v=xXyoO1q8weg)
 
