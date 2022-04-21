@@ -16,7 +16,7 @@ To watch the **video recordings** of the sessions, please click the session titl
 
 ### Opening Session 
 
-| <a href="\images\fFow%20Conference%202019\opening-mom.jpg"><img src="/images/Fow%20Conference%202019/opening-mom.jpg" style="width:400px;" /></a> | <a href="/images/Fow%20Conference%202019/opening-ilo.png"><img src="\images\fow-conference-2019\opening-ilo.png" style="width:400px;" /></a> | 
+| <a href="/images/fFow%20Conference%202019/opening-mom.jpg"><img src="/images/Fow%20Conference%202019/opening-mom.jpg" style="width:400px;" /></a> | <a href="/images/Fow%20Conference%202019/opening-ilo.png"><img src="/images/Fow%20Conference%202019/opening-ilo.png" style="width:400px;" /></a> | 
 
 - [Welcome remarks by Mrs Josephine Teo](https://www.youtube.com/watch?v=gvwC77iU5M0&t=104s), Minister for Manpower and Second Minister for Home Affairs (Singapore)
 - [Opening address by Mr Guy Ryder](https://www.youtube.com/watch?v=9vEm_RGhcno), ILO Director-General
