@@ -1,8 +1,8 @@
 ---
-title: Vision and Mission 
+title: Vision and Mission
 permalink: /about/vision-and-mission/
 ---
-![vision-and-mission](/images/vision-and-mission2.png)
+![](/images/Vision-and-Mission.png)
 
 <br>
 
