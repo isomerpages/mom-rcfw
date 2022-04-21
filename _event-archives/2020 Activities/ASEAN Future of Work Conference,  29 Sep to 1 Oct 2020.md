@@ -27,7 +27,7 @@ Day 2 focused on transforming the HR sector to help businesses and workers tackl
 - View the Day 2 session recordings <a href="/2020-asean-fow-day2/">here</a>.
 
 Day 3 focused on the impact of technological advances on industries and developing the necessary digital skills through lifelong learning. 
-- View the Day 3 session recordings <a href="/hr-tech-fest-asia-2020-asean-fow-track-day3/">here</a>.
+- View the Day 3 session recordings <a href="/2020-asean-fow-day3/">here</a>.
 
 
 
