@@ -25,7 +25,8 @@ sections:
   - infopic:
       title: ASEAN Future of Work Conference 2022
       subtitle: virtual
-      description: 12 May 2022
+      description: "Theme: Navigating Labour Market Recovery: A Balancing Act for
+        Businesses, Workers and Governments"
       button: "Find out more "
       url: /activities/Upcoming-Activities/asean-fow-2022
       alt: DPM Heng Swee Keat_ASEAN FOW22
