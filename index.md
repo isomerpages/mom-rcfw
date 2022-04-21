@@ -35,5 +35,6 @@ sections:
       subtitle: 29 April 2019
       button: Click here for the event highlights
       url: /event-archives/fow-conference-2019/
-      image: /images/fow-conference-2019/panel2.jpeg
+      image: /images/Fow Conference 2019/panel1.jpg
+      alt: Panel 1
 ---
