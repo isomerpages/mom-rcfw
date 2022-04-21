@@ -4,7 +4,6 @@ permalink: /about/vision-and-mission/
 ---
 ![](/images/Vision-and-Mission.png)
 
-<br>
 
 The RCFW will institutionalise our region’s collective effort to take advantage of emerging opportunities and to tackle Future of Work challenges, especially during the COVID-19 pandemic.
 
