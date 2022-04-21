@@ -4,10 +4,6 @@ permalink: /event-archives/asean-fow-2020/
 third_nav_title: 2020 Activities
 description: ""
 ---
-
-
-
-
 ![Keynote-Address-HR-Tech-Festival-Asia-2020](/images/min-josephine-teo-hr-fest-keynote-min.png)
 
 ### The RCFW was launched at the HR Tech Festival Asia 2020!
@@ -25,7 +21,7 @@ Download the programme agenda <a href="/files/HR-Tech-Festival Asia-ASEAN-Future
 ---
 
 Day 1 focused on mitigating the impact of COVID-19 on labour markets in the region, the importance of tripartite collaboration and improving employment facilitation services in a post-COVID world. 
-- View the Day 1 session recordings <a href="/hr-tech-fest-asia-2020-asean-fow-track-day1/">here</a>.
+- View the Day 1 session recordings <a href="/2020-asean-fow-day1/">here</a>.
 
 Day 2 focused on transforming the HR sector to help businesses and workers tackle challenges and seize opportunities during the pandemic and beyond. 
 - View the Day 2 session recordings <a href="/hr-tech-fest-asia-2020-asean-fow-track-day2/">here</a>.
