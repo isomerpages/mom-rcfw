@@ -16,4 +16,3 @@ We are proud to have organised the following activities with our partners in the
 |  | Singapore Workplace Safety and Health (WSH) Conference | [Here](/event-archives/wsh-conference-2020/) |
 | 2019 | Singapore Conference on the Future of Work | [Here](/event-archives/fow-conference-2019/) |
 
-![](/images/gif-test.gif)
