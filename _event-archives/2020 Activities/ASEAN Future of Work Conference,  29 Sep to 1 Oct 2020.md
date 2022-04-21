@@ -16,10 +16,10 @@ Over 1,700 regional participants from government, employers’ and workers’ or
 - challenges and best practices to mitigate the impact of COVID-19 on the labour market; as well as
 - solutions to support business transformation and human capital development in the Future of Work.
 
-Download the programme agenda <a href="/files/HR-Tech-Festival Asia-ASEAN-Future-of-Work Track-Provisional-Programme.pdf/">here</a>.
+
+[Conference Programme](/files/HR-Tech-Festival%20Asia-ASEAN-Future-of-Work%20Track-Provisional-Programme.pdf)
 
 ---
-
 Day 1 focused on mitigating the impact of COVID-19 on labour markets in the region, the importance of tripartite collaboration and improving employment facilitation services in a post-COVID world. 
 - View the Day 1 session recordings <a href="/2020-asean-fow-day1/">here</a>.
 
