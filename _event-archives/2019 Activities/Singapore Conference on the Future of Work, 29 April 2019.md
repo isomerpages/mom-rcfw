@@ -67,7 +67,7 @@ Tripartite speakers from the region, Commissioners from the ILO’s Global Commi
 
 ### Closing Session
 
-| <a href="\images\fow-conference-2019\closing-ntuc.jpg"><img src="\images\fow-conference-2019\closing-ntuc.jpg" style="width:400px;" /></a> | <a href="\images\fow-conference-2019\closing-snef.jpg"><img src="\images\fow-conference-2019\closing-snef.jpg" style="width:400px;" /></a> | 
+| <a href="\images\Fow%20Conference%202019\closing-ntuc.jpg"><img src="\images\Fow%20Conference%202019\closing-ntuc.jpg" style="width:400px;" /></a> | <a href="\images\Fow%20Conference%202019\closing-snef.jpg"><img src="\images\Fow%20Conference%202019\closing-snef.jpg" style="width:400px;" /></a> | 
 
 - [Remarks by Mr Ng Chee Meng](https://www.youtube.com/watch?v=k4Sd18M0-78), Secretary General, Singapore National Trades Union Congress
 - [Remarks by Dr Robert Yap](https://www.youtube.com/watch?v=MtAEdjsrQJc), President, Singapore National Employers Federation
