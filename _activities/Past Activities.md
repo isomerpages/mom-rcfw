@@ -7,7 +7,7 @@ We thank our RCFW advisors, speakers and participants for their continued suppor
 
 We are proud to have organised the following activities with our partners in the last few years:
 
-|  | Activity Name | Event Summary |
+|  | Activity Name | Event Highlights |
 | -------- | -------- | -------- |
 | 2021     | 2nd ASEAN Future of Work Conference | [Here](/event-archives/asean-fow-2021/) |
 |  | 9th ASEAN Labour Inspection Conference |[Here](/event-archives/9th-alic/) |
