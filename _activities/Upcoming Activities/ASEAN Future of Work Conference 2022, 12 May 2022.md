@@ -19,4 +19,4 @@ We have a really exciting lineup of speakers from Singapore, the Philippines and
 3.	Strengthening Labour Protections for Platform Workers: A Delicate Balance Between Protecting Workers and Promoting Enterprise Competitiveness 
 4.	Employability or Employment: Supporting Our Youth for the Best Start at Work
 
-Don't miss out! Register [here](https://tinyurl.com/asean-fow2022) before 6 May 2022 or click [here](/files/ASEAN%20FOW%20Conference%202022_%20Provisional%20Programme_(as%20of%2021%20Apr).pdf) for the latest Conference agenda.
+Don't miss out! Register [here](https://tinyurl.com/asean-fow2022) before 6 May 2022 or click [here](/files/ASEAN-FOW-Conference%202022_%20Provisional-Programme_(as-of-21-Apr).pdf) for the latest Conference agenda.
