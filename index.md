@@ -29,5 +29,11 @@ sections:
       button: "Find out more "
       url: /activities/Upcoming-Activities/asean-fow-2022
       alt: DPM Heng Swee Keat_ASEAN FOW22
-      image: /images/ASEAN FOW Conference 2022/ASEAN FOW - DPM .png
+      image: /images/ASEAN FOW Conference 2022/DPM FOW 2022.png
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
