@@ -1,8 +1,15 @@
 ---
-title: 9th ASEAN Labour Inspection Conference, 27 - 28 May 2021
-permalink: /activities/past-activities/9th-alic/
-third_nav_title: Past Activities
+title: 9th ASEAN Labour Inspection Conference, 27 to 28 May 2021
+permalink: /event-archives/9th-alic/
+third_nav_title: 2021 Activities
+description: ""
 ---
+
+
+
+
+
+
 ![Virtual Group Photo from 9th ALIC](/images/9th%20ALIC%20Group%20Photo.png)
 
 In collaboration with the Occupational Safety and Health Division in the Ministry of Manpower, Singapore, we successfully organised the 9th ASEAN Labour Inspection Conference (9th ALIC) virtually from 27 to 28 May 2021.

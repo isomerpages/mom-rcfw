@@ -1,7 +1,9 @@
 ---
-title: ASEAN Future of Work Track, 1 Oct 2020  
-permalink: /hr-tech-fest-asia-2020-asean-fow-track-day3/
+title: ASEAN Future of Work Track, 1 Oct 2020
+permalink: /2020-asean-fow-day3/
+description: ""
 ---
+
 1\. **Special Remarks by ASEAN Labour Ministers Meeting Chair** 
 
 Datuk Seri M. Saravanan, Minister, Ministry of Human Resources, Malaysia, spoke about Malaysia’s measures to address the impact of COVID-19 on Malaysia’s labour market and to support Malaysia’s economic recovery.

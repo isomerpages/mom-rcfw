@@ -1,7 +1,8 @@
 ---
-title: ASEAN Future of Work Conference Track, 29 Sep - 1 Oct 2020
-permalink: /activities/past-activities/hr-tech-fest-asia-2020-asean-fow-track/
-third_nav_title: Past Activities
+title: ASEAN Future of Work Conference,  29 Sep to 1 Oct 2020
+permalink: /event-archives/asean-fow-2020/
+third_nav_title: 2020 Activities
+description: ""
 ---
 ![Keynote-Address-HR-Tech-Festival-Asia-2020](/images/min-josephine-teo-hr-fest-keynote-min.png)
 
@@ -15,19 +16,19 @@ Over 1,700 regional participants from government, employers’ and workers’ or
 - challenges and best practices to mitigate the impact of COVID-19 on the labour market; as well as
 - solutions to support business transformation and human capital development in the Future of Work.
 
-Download the programme agenda <a href="/files/HR-Tech-Festival Asia-ASEAN-Future-of-Work Track-Provisional-Programme.pdf/">here</a>.
+
+[Conference Programme](/files/HR-Tech-Festival%20Asia-ASEAN-Future-of-Work%20Track-Provisional-Programme.pdf)
 
 ---
-
 Day 1 focused on mitigating the impact of COVID-19 on labour markets in the region, the importance of tripartite collaboration and improving employment facilitation services in a post-COVID world. 
-- View the Day 1 session recordings <a href="/hr-tech-fest-asia-2020-asean-fow-track-day1/">here</a>.
+- View the Day 1 session recordings <a href="/2020-asean-fow-day1/">here</a>.
 
 Day 2 focused on transforming the HR sector to help businesses and workers tackle challenges and seize opportunities during the pandemic and beyond. 
-- View the Day 2 session recordings <a href="/hr-tech-fest-asia-2020-asean-fow-track-day2/">here</a>.
+- View the Day 2 session recordings <a href="/2020-asean-fow-day2/">here</a>.
 
 Day 3 focused on the impact of technological advances on industries and developing the necessary digital skills through lifelong learning. 
-- View the Day 3 session recordings <a href="/hr-tech-fest-asia-2020-asean-fow-track-day3/">here</a>.
+- View the Day 3 session recordings <a href="/2020-asean-fow-day3/">here</a>.
 
 
 
-We thank all participants and speakers who contributed to the success of our ASEAN Future of Work track.
+We thank all participants and speakers who contributed to the success of our first ASEAN Future of Work Conference.

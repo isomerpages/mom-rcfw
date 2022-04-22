@@ -1,7 +1,9 @@
 ---
-title: ASEAN Future of Work Track, 29 Sep 2020
-permalink: /hr-tech-fest-asia-2020-asean-fow-track-day1/
+title: ASEAN Future of Work Conference, 29 Sep 2020
+permalink: /2020-asean-fow-day1/
+description: ""
 ---
+
 1\. **Keynote Address** by Mrs. Josephine Teo, Singapore Minister for Manpower.
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jA5KXxxeAcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

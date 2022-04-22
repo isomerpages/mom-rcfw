@@ -1,7 +1,9 @@
 ---
-title: ASEAN Future of Work Track, 30 Sep 2020
-permalink: /hr-tech-fest-asia-2020-asean-fow-track-day2/
+title: ASEAN Future of Work Conference, 30 Sep 2020
+permalink: /2020-asean-fow-day2/
+description: ""
 ---
+
 1\. **Address** by Mr Zaqy Mohamad, Senior Minister of State for Manpower, Singapore.
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3XPr2fL5gI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
