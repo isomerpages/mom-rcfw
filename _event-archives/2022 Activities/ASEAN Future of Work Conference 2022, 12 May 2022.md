@@ -4,11 +4,7 @@ permalink: /event-archives/asean-fow-2022/
 description: ""
 third_nav_title: 2022 Activities
 ---
-
-
-[<img src="/images/ASEAN%20FOW%20Conference%202022/asean%20fow%202022%20conference%20banner.png">](https://tinyurl.com/asean-fow2022)
-
-### Have you registered to attend our ASEAN Future of Work Conference? 
+[<img src="/images/ASEAN%20FOW%20Conference%202022/asean%20fow%202022%20conference%20banner.png">]
 
 The theme of this year's Conference is "**Navigating Labour Market Recovery: A Balancing Act for Businesses, Workers and Governments**".
 
@@ -20,5 +16,3 @@ We have a really exciting lineup of speakers from Singapore, the Philippines and
 2.	Successful Flexible Work Arrangements: Managing the Trade-offs between Remote and Onsite Work 
 3.	Strengthening Labour Protections for Platform Workers: A Delicate Balance Between Protecting Workers and Promoting Enterprise Competitiveness 
 4.	Employability or Employment: Supporting Our Youth for the Best Start at Work
-
-Don't miss out! Register [here](https://tinyurl.com/asean-fow2022) before 6 May 2022 or click [here](/files/ASEAN-FOW-Conference-2022_Provisional-Programme_(as-of-21-Apr).pdf) for the latest Conference agenda.
