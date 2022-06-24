@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Upcoming Activities.md
-      - Upcoming Activities/.keep
       - Past Activities.md
