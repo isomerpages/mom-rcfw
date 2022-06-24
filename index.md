@@ -17,7 +17,7 @@ sections:
           url: /about/rcfw-advisors/
         - title: Upcoming Activities
           description: null
-          url: /activities/upcoming-activities/asean-fow-2022/
+          url: /activities/upcoming-activities/
         - title: Explore Collaborations
           description: "Get in touch with us! "
           url: mailto:mom_futureofwork@mom.gov.sg
