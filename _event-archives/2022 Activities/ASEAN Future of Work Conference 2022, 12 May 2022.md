@@ -4,7 +4,7 @@ permalink: /event-archives/asean-fow-2022/
 description: ""
 third_nav_title: 2022 Activities
 ---
-<img src="/images/ASEAN%20FOW%20Conference%202022/asean%20fow%202022%20conference%20banner.png">
+![](/images/ASEAN%20FOW%20Conference%202022/asean%20fow%202022%20conference%20banner1.png)
 
 The theme of this year's Conference was "**Navigating Labour Market Recovery: A Balancing Act for Businesses, Workers and Governments**".
 
@@ -16,4 +16,3 @@ We were honoured to have an extinguished list of speakers from the International
 2.	Successful Flexible Work Arrangements: Managing the Trade-offs between Remote and Onsite Work 
 3.	Strengthening Labour Protections for Platform Workers: A Delicate Balance Between Protecting Workers and Promoting Enterprise Competitiveness 
 4.	Employability or Employment: Supporting Our Youth for the Best Start at Work
-
