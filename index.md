@@ -17,7 +17,7 @@ sections:
           url: /about/rcfw-advisors/
         - title: Upcoming Activities
           description: null
-          url: /activities/upcoming-activities/asean-fow-2022/
+          url: /activities/upcoming-activities/
         - title: Explore Collaborations
           description: "Get in touch with us! "
           url: mailto:mom_futureofwork@mom.gov.sg
@@ -27,7 +27,7 @@ sections:
       subtitle: virtual
       description: 12 May 2022
       button: Find out more
-      url: /activities/Upcoming-Activities/asean-fow-2022
+      url: /event-archives/asean-fow-2022/
       alt: DPM Heng Swee Keat_ASEAN FOW22
       image: /images/ASEAN FOW Conference 2022/DPM FOW 2022.png
   - infopic:

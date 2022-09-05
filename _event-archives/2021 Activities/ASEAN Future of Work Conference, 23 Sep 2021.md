@@ -4,7 +4,7 @@ permalink: /event-archives/asean-fow-2021/
 description: ""
 third_nav_title: 2021 Activities
 ---
-![](/images/asean%20fow%202021%20conference%20banner.png)
+![](/images/asean%20fow%202021%20conference%20banner1.png)
 
 ### We held our ASEAN Future of Work Conference as part of the popular HR Tech Festival Asia Online for the second time. 
 

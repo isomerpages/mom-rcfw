@@ -2,6 +2,5 @@ collections:
   activities:
     output: true
     order:
-      - Upcoming Activities/.keep
-      - Upcoming Activities/ASEAN Future of Work Conference 2022, 12 May 2022.md
+      - Upcoming Activities.md
       - Past Activities.md
