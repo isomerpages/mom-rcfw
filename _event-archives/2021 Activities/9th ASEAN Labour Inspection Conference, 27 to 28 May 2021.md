@@ -10,7 +10,7 @@ description: ""
 
 
 
-![Virtual Group Photo from 9th ALIC](/images/9th%20ALIC%20Group%20Photo.png)
+![Virtual Group Photo from 9th ALIC](/images/9th%20alic%20group%20photo.png)
 
 In collaboration with the Occupational Safety and Health Division in the Ministry of Manpower, Singapore, we successfully organised the 9th ASEAN Labour Inspection Conference (9th ALIC) virtually from 27 to 28 May 2021.
 
@@ -23,6 +23,6 @@ At the end of the Conference, AMS adopted the set of 9 recommendations. These fo
 2. Managing mental well-being of our workforce, and
 3. Deepening collaboration among AMS together with regional tripartite partners and international organisations.
 
-[9th ALIC Programme and Agenda](/files/9th%20ALIC%20Concept%20Note%20and%20Agenda.pdf)
+[9th ALIC Programme and Agenda](/files/9th%20alic%20concept%20note%20and%20agenda.pdf)
 
-[9th ALIC Concluded Recommendations](/files/Concluded%20Recommendations%20for%209th%20ALIC.pdf)
+[9th ALIC Concluded Recommendations](/files/concluded%20recommendations%20for%209th%20alic.pdf)

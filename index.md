@@ -29,12 +29,12 @@ sections:
       button: Find out more
       url: /event-archives/asean-fow-2022/
       alt: DPM Heng Swee Keat_ASEAN FOW22
-      image: /images/ASEAN FOW Conference 2022/DPM FOW 2022.png
+      image: /images/asean fow conference 2022/dpm fow 2022.png
   - infopic:
       title: Singapore Conference on the Future of Work
       subtitle: 29 April 2019
       button: Click here for the event highlights
       url: /event-archives/fow-conference-2019/
-      image: /images/Fow Conference 2019/panel1.jpg
+      image: /images/fow conference 2019/panel1.jpg
       alt: Panel 1
 ---

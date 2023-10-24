@@ -4,7 +4,7 @@ permalink: /event-archives/asean-fow-2022/
 description: ""
 third_nav_title: 2022 Activities
 ---
-![](/images/ASEAN%20FOW%20Conference%202022/asean%20fow%202022%20conference%20banner1.png)
+![](/images/asean%20fow%20conference%202022/asean%20fow%202022%20conference%20banner1.png)
 
 The theme of this year's Conference was "**Navigating Labour Market Recovery: A Balancing Act for Businesses, Workers and Governments**".
 
