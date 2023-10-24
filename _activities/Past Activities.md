@@ -1,6 +1,6 @@
 ---
 title: Past Activities
-permalink: /activities/2021-Activities/past-activities
+permalink: /activities/2021-activities/past-activities/
 description: ""
 ---
 We thank our RCFW advisors, speakers and participants for their continued support. 
