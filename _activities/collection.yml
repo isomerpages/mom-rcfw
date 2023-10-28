@@ -1,0 +1,6 @@
+collections:
+  activities:
+    output: true
+    order:
+      - Upcoming Activities.md
+      - Past Activities.md

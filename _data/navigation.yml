@@ -1,0 +1,10 @@
+logo: /images/rcfw-logo-final.png
+links:
+  - title: About
+    collection: about
+  - title: Activities
+    collection: activities
+  - title: Resources
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
