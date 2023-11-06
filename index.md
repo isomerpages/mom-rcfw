@@ -4,7 +4,7 @@ title: Regional Centre for the Future of Work
 description: Brief site description here
 image: /images/rcfw-logo-final.png
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       subtitle: Regional Centre for the Future of Work
