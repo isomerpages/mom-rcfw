@@ -1,0 +1,9 @@
+collections:
+  about:
+    output: true
+    order:
+      - overview.md
+      - vision-and-mission.md
+      - logo.md
+      - focus-areas.md
+      - rcfw-advisors.md
