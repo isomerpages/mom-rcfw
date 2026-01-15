@@ -4,7 +4,7 @@ permalink: /event-archives/fow-conference-2019/
 third_nav_title: 2019 Activities
 description: ""
 ---
-![](/images/Fow%20Conference%202019/banner.png)
+![](/images/fow%20conference%202019/banner.png)
 
 The Singapore Ministry of Manpower, in collaboration with the Singapore National Trade Unions Congress (NTUC) and Singapore National Employers Federation (SNEF), co-organised the Singapore Conference on the Future of Work with the International Labour Organization (ILO) on 29 April 2019. The conference was a response to the ILO’s call for each member state to conduct national conversations and set out its response to the ILO Global Commission’s Report on the Future of Work, which was released on 22 January 2019. 
 
@@ -16,7 +16,7 @@ To watch the **video recordings** of the sessions, please click the session titl
 
 ### Opening Session 
 
-| <a href="/images/Fow%20Conference%202019/opening-mom.jpg"><img src="/images/Fow%20Conference%202019/opening-mom.jpg" style="width:400px;" /></a> | <a href="/images/Fow%20Conference%202019/opening-ilo.png"><img src="/images/Fow%20Conference%202019/opening-ilo.png" style="width:400px;" /></a> | 
+| <a href="/images/fow%20conference%202019/opening-mom.jpg"><img src="/images/fow%20conference%202019/opening-mom.jpg" style="width:400px;" /></a> | <a href="/images/fow%20conference%202019/opening-ilo.png"><img src="/images/fow%20conference%202019/opening-ilo.png" style="width:400px;" /></a> | 
 
 - [Welcome remarks by Mrs Josephine Teo](https://www.youtube.com/watch?v=gvwC77iU5M0&t=104s), Minister for Manpower and Second Minister for Home Affairs (Singapore)
 - [Opening address by Mr Guy Ryder](https://www.youtube.com/watch?v=9vEm_RGhcno), ILO Director-General

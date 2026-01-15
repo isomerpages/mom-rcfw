@@ -2,7 +2,7 @@
 title: Logo
 permalink: /about/logo/
 ---
-![](/images/RCFW-logo.png)
+![](/images/rcfw-logo.png)
 
 The warm yellow represents friendship and camaraderie between regional tripartite partners, while the orange represents the vibrancy and commitment of ASEAN as a region, to work together to answer the ILO's call to "Work for a Brighter Future" for all people. 
 
